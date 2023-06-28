@@ -23,16 +23,9 @@ class LamoState extends State<Lamo> {
               )),
         ),
         body: SingleChildScrollView(
-            scrollDirection: Axis.horizontal,
-            // child: Text("reee")));
-
-            child: SingleChildScrollView(
-                scrollDirection: Axis.vertical,
-                child: InteractiveViewer(
-                    minScale: 0.5,
-                    maxScale: 3.0,
-                    child: Html(
-                        data: lamo_array[widget.lamo_id][1],
-                        style: {'pre': Style(fontSize: FontSize(16.0))})))));
+            scrollDirection: Axis.vertical,
+            child: Html(
+                data: lamo_array[widget.lamo_id][1],
+                style: {'pre': Style(fontSize: FontSize(19.0))})));
   }
 }
