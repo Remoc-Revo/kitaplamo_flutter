@@ -510,7 +510,7 @@ wich kuot nyaka chieng'.</b>
 <br><br>
 KATA<br>
 WEND FWENYRUOK (Fweny 19:6-8
-4:11; 5:9-10; 15:3-4; 5:13)<br>
+<br>4:11; 5:9-10; 15:3-4; 5:13)<br>
 <b>1. Opak Nyasaye! Ruoth Nyasachwa
 Manyalo Gik Moko Duto osekawo
 lochne. Wabeduru mamor ahinya, kendo
@@ -992,7 +992,7 @@ nyaka chieng’.
       Ruoth Nyasaye nyaka chieng’.<b>Amina</b>.
 <br><br>
       Ka Padri onge to ng‘ama otelo ni lemo wacho
-      kama:
+      kama:<br>
       <i>Jatelo</i>;
 <br><br>
       A Ruodh ng’wono, wenwa richowa,
@@ -1071,7 +1071,7 @@ nyaka chieng’.
       obet kawuono, kendo kaka biro bet nyaka
       chieng’.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       WEND GUETH (Mathayo 5:3-10)
 <br><br>
       1. Joma ong’eyo ni ok long’o e nyim Ny-
@@ -1129,7 +1129,7 @@ nyaka chieng’.
       obet kawuono, kendo kaka biro bet nyaka
       chieng’.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
 <br><br>
       WEND PINY RUODH POLO (Mathayo 6:25-33)
 <br><br>
@@ -1143,7 +1143,7 @@ nyaka chieng’.
 <br><br>
       3. Parieuru kaka ondanyo mae thim dongo.
       Ok giti gimoro,
-      bende ok gitwang’ lewni ma girwako, to <br>KATA
+      bende ok gitwang’ lewni ma girwako, to <br>KATA<br>
       mana Solomon gi mwandune duto
       mathothgo ne ok nyal rwakore maber ka
       ondanyo.
@@ -1157,7 +1157,7 @@ nyaka chieng’.
       kawuon, kendo kaka biro bet nyaka
       chieng’.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
 <br><br>
       WEND TICH KRISTO (Jo-Filipi 2:5-11)
 <br><br>
@@ -1235,8 +1235,8 @@ nyaka chieng’.
       15. <i>Jatelo</i>: Ruoth obed kodu,
       <br><i>Ji duto:</i> <b>In bende obed kodi</b>.
 <br><br>
-      16. <i>Jatelo</i>: Walam
-      (Ji goyo chonggi piny kata gibet ka gidembore)
+      16. <i>Jatelo</i>: Walam<br>
+      (Ji goyo chonggi piny kata gibet ka gidembore)<br>
       <i>Jatelo</i>: Kwauru eka nomiu,
       <br><i>Ji duto:</i> <b> Dwaruru eka unuyudi</b>.
       <br><i>Jatelo</i>: Dwong'uru eka noyawnu.
@@ -1318,7 +1318,7 @@ nyaka chieng’.
       wanindo to wayud kue: kuom Wuodi ma
       Ruodh kue.<b>Amina</b>,
 <br><br>
-      <br>KATA
+      <br>KATA<br>
 <br><br>
       A Nyasaye, in e chakruok mar gombo ma-
       beyo kod rieko mar ng’ado wach makare
@@ -1336,7 +1336,7 @@ nyaka chieng’.
       otienoni; nikech hera mar Wuodi Yesu
       Kristo Ruodhwa.<b>Amina</b>
        
-      <br>KATA
+      <br>KATA<br>
 <br><br>
       ‘A Ruoth Nyasachwa, mano kaka Nyingi
       duong’ e piny ngima. Nichueyowa gi buru
@@ -1392,7 +1392,7 @@ nyaka chieng’.
       nyaka chieng’.<b>Amina</b>. (2 Jo-Korintho
       13:13).
 <br><br>
-      <br>KATA
+      <br>KATA<br>
 <br><br>
       Ruodhwa Yesu Kristo owuon, gi Nyasaye
       Wuonwa moseherowa gi hera maduong’
@@ -1403,7 +1403,7 @@ nyaka chieng’.
       mabeyo. Kendo ng’wono mar Ruodhwa
       Yesu Kristo, gi hera mar Nyasaye, kod
       achiel ma wan-go kuom Roho Maler,
-      obed kodwa duto nyaka chieng'.<b>Amina</b>.
+      obed kodwa duto nyaka chieng'.<b>Amina</b>.<br>
       (2 Jo-Thesalonika 2:16-17).
 <br><br>
       26. WER MOGIK
@@ -1462,12 +1462,12 @@ nyaka chieng’.
       3. HULO RICHO
       Hulo richo man kani (kata manielamo mar
       okinyi kata mar odhiambo) inyalo konyruok-
-      go, ji chung' kata bet ka gi dembore.
+      go, ji chung' kata bet ka gi dembore.<br>
       <i>Jatelo</i>:Ng’at matemo pando richone ok nyal
       dhi maber;
 <br><br>
       <br><i>Ji duto:</i>To ng’at mahulo richone kendo
-      weyo ema Nyasaye kecho.
+      weyo ema Nyasaye kecho.<br>
       (Ngeche 28:13).
 <br><br>
       <i>Jatelo</i>: Wahulo richowa e nyimi a Ruoth;
@@ -1483,7 +1483,7 @@ nyaka chieng’.
       <br><i>Ji duto:</i> <b> Luokwa kendo iwenwa</b>.
 <br><br>
       Ji nyalo wero wendni ka lamogo Nyasaye;
-      “Yesu in Misangona"’ (wer 183 kare 3) <br>KATA
+      “Yesu in Misangona"’ (wer 183 kare 3) <br>KATA<br>
       moro machielo kata wend chuny mowinjore.
 <br><br>
       4. OK gimoro konya to mana musalapino,
@@ -1497,7 +1497,7 @@ nyaka chieng’.
       lawo somo.
 <br><br>
       5. ZABURI 4
-      1. A Nyasaye ma jaritna,
+<br>      1. A Nyasaye ma jaritna,
       Yie idwoka ka aluongi.
       Ka ne an e thagruok to in emane ikonya.
       Koro chak ikecha, kendo iwinj ywakna!
@@ -1627,7 +1627,7 @@ nyaka chieng’.
       Somo mamoko mogol e Muma, oa e bugegi
       Ngeche 3:21-24; Ezekiel 34:24-31; Luka
       22-41-46; Mathayo 26:36-46; Mariko 13:28
-      -37; ( ekind mamoko)
+<br>      -37; ( ekind mamoko)
 <br><br>
       7. WER
       §. PUONJO WACH NYASAYE (Ka nyalore)
@@ -1660,7 +1660,7 @@ nyaka chieng’.
       Yesu Kristo Ruodhwa,<b>Amina</b>.
 <br><br>
 <br>
-      <br>KATA
+      <br>KATA<br>
       A Ruoth iritwa maber gotienoni,
       Kendo igeng'wa mondo gimoro marach kik
       timrenwa,
@@ -1712,7 +1712,7 @@ nyaka chieng’.
       Roho Maler obed kodu ndalo duto.
      <b>Amina</b>.
 <br><br>
-      Ka padri onge
+      Ka padri onge<br>
       <i>Jatelo</i>: To koro Ruodhwa Yesu Kristo, gi
       Nyasaye Wuonwa mane oherowa gi
       hera maduong’ kendo osejiwowa gi
@@ -1726,7 +1726,7 @@ nyaka chieng’.
       obed kodwa duto nyaka chieng
      <b>Amina</b>,
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Ng'wono mar Ruodhwa Yesu kristo,
       gi hera mar Nyasaye kod achiel ma
       wango kuom Roho Maler obed
@@ -1809,7 +1809,7 @@ nyaka chieng’.
       mondo Nyasaye owenigi richogi. Ji
       duto modak e piny Judea kod dala mar
       Jerusalem nodhi ire. Ne gihulo richo-
-      gi kendo ne obatisogi e aora Jordan
+      gi kendo ne obatisogi e aora Jordan<br>
       (Mariko 1:4-5).
 <br><br>
       “Lokreuru, kendo ng’ato ka ng’ato
@@ -1887,7 +1887,7 @@ nyaka chieng’.
 <br><br>
       7. Somo mar Injili<br>
       Inyalo som achiel kuom somo mogol e Injili
-      mondik mwalo kagi:
+      mondik mwalo kagi:<br>
       (Mathayo 26:24-27; Luka 24:45-53;
       Mariko 1:1-11; Johana 3:1-8)
       Wachung’uru mondo wawinj Wach Maber
@@ -1973,7 +1973,7 @@ nyaka chieng’.
       weche ma gidwaro singore kar
       nyithindogi?
 <br><br>
-      Japuonj: Ee, asepuonjogi
+      Japuonj: Ee, asepuonjogi<br>
       (Singruok man mwaloni inyalo wacho e batiso
       mar nyithind Kende) to ka jomadongo kende
       ema nite to Padri dhi nyime gi migawo mar
@@ -2053,7 +2053,7 @@ nyaka chieng’.
       <br><i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
 <br><br>
       16. AYIE MAR JOOTE
-      Ji duto chung’ kendo <i>Jatelo</i> nowach niya:
+      Ji duto chung’ kendo <i>Jatelo</i> nowach niya:<br>
       <i>Jatelo</i>: Wachung’ kaachiel gi jo-Kristo e
       tienge duto, kendo manie piny duto
       mondo wajiw yie marwa kaka ondiki
@@ -2206,7 +2206,7 @@ nyaka chieng’.
       
       25, WER MAR GOLO CHIWO
       26. Bang chiwo ng'ama otelo ni lemo mondo
-      owach kama:
+      owach kama:<br>
       <i>Jatelo</i>: A Ruoth Nyasaye, in ema ichiwo
       gik moko duto.
       <br><i>Ji duto:</i> <b> Kendo waduokoni mana gik ma
@@ -2725,7 +2725,7 @@ nyaka chieng’.
 <br><br>
       43. Ang'o ma omiyo ibatiso nyithindo
       mayom?
-      Nyithindo mayom ibatiso nikech <br>KATA
+      Nyithindo mayom ibatiso nikech <br>KATA<br>
       obedo ni pod ok gichopo higni ma ginyalo
       timo singruok kendgi giwegi, joma timo-
       nigi singruok nyalo kwano-gi kaka
@@ -3046,7 +3046,7 @@ nyaka chieng’.
       WECHE MONEGO IPAR
       *Lamoni itimo kinde lemo mar Sawo
       Maler mar Ruoth. Chakre jo higni 12
-      kadhi nyime
+<br>      kadhi nyime
       * Bishop mar Daoses ema time.
       *  Satifiket mar yieyo lwedo kod ote onego
       mi ng’at moyie lwedo.
@@ -3174,7 +3174,7 @@ nyaka chieng’.
       achiel, Wuoro, Wuowi kod Roho
       Maler.
       Bishop lokore ir jolwedo kendo odhi nyime e
-      migawo mar apar kata apar gachiel <br>KATA
+      migawo mar apar kata apar gachiel <br>KATA<br>
       wacho migepe ariyogo duto
       Bishop dhi nyime gi penjo.
       10. Bishop: Mondo ji ong'e dwarou, gi yie
@@ -3251,7 +3251,7 @@ nyaka chieng’.
       do rito gigo duto ma Nyasaye omi-
       yowa.
       Ayie wacho adier kendo ng'ado
-      bura kare kendo dwaro riwo ji
+      bura kare kendo dwaro riwo ji<br>
       (oganda) duto ka Nyasaye okonya.
 <br><br>
       12. YIEYO LWEDO
@@ -3317,7 +3317,7 @@ nyaka chieng’.
       Jo-Kristo moso jogo moseyie lwedo. E kin-
       deni inyalo wer wende moko mowinjore
       bang' lemo mar sawo e migawo mar 27
-      
+<br>      
       <!--/pre-->
   """
   ],
@@ -3423,12 +3423,12 @@ nyaka chieng’.
       do ong'ingo, momiyogi. Eka wang' gi
       noyepo mi ging'eye. (Luka 24:30)
 <br><br>
-      chieng' BIRO MAR ROHO MALER
+      chieng' BIRO MAR ROHO MALER<br>
       (MILUONGO BENDE NI chieng' PEN-
       TEKOST)
       To osebatiswa e ringruok achiel kuom
-      Roho achiel, bed ni wan Jo-Yahudi <br>KATA
-      Joma ok Jo-Yahudi, kata wasumbini <br>KATA
+      Roho achiel, bed ni wan Jo-Yahudi <br>KATA<br>
+      Joma ok Jo-Yahudi, kata wasumbini <br>KATA<br>
       joma ni thuolo, kendo wan duto osemiwa
       Roho achielno mondo wamadhi. (1 Jokorintho 12:13b)
 <br><br>
@@ -3492,7 +3492,7 @@ nyaka chieng’.
       wami nyingi duong' kuom Yesu
       Kristo, ma en ler mar piny.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
 <br><br>
       A Nyasaye Manyalo Gik Moko
       Duto, chunywa oyawore chutho e
@@ -3520,7 +3520,7 @@ nyaka chieng’.
 <br><br>
       <i>Padri</i>: Kik ulos kido moro mopa, kata gim-
       oro machalo gi gimoro manie polo
-      malo, kata manie piny mwalo, <br>KATA
+      malo, kata manie piny mwalo, <br>KATA<br>
       manie pi, mae bwo piny. Kik ukul-
       runigi, kata lamogi kik ulamgi, ni-
       kech an Ruoth Nyasaye ma Ny-
@@ -3582,13 +3582,13 @@ nyaka chieng’.
       ikonywa rito chikni.
 <br><br>
       <i>Padri</i>: Kik igomb od ng'ato, kata chi
-      ng'ato, kata misumba ng'ato, <br>KATA
-      dher ng'ato, kata kanj ng'ato, <br>KATA
+      ng'ato, kata misumba ng'ato, <br>KATA<br>
+      dher ng'ato, kata kanj ng'ato, <br>KATA<br>
       gimoro amora ma ng'ato nigo.
       <br><i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
       indik chikegi duto e chunywa.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       KAKA MUMA MANYIEN OLOKO CHIKE APAR
       Padri gi Jakonyne nyalo somo chikegi, ng'at
       mokwongo somo chike e Muma Machon to
@@ -3670,7 +3670,7 @@ nyaka chieng’.
       <br><i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
       indik chikegi duto e chunywa.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       CHIKE APAR E YO MACHIEK
 <br><br>
       <i>Padri</i>: Ruodhwa Yesu Kristo nowacho ni-
@@ -3721,7 +3721,7 @@ nyaka chieng’.
       <i>Padri</i>:<i>Alleluya</i>.
       <br><i>Ji duto:</i><b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       <br><i>Ji duto:</i> Duong' obed ni Nyasaye man malo
       chutho, kendo kue obed
       ni joge duto manie piny.
@@ -3910,7 +3910,7 @@ nyaka chieng’.
       maonge miganga.
       <br><i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       LAMO MAG KWAYO
 <br><br>
       <i>Padri</i>: Walamuru ni Kanisa.
@@ -4001,12 +4001,12 @@ nyaka chieng’.
       kech ng'ama dwaro reso
       ngimane, ngimane nolalne. To
       ng'ama owito ngimane
-      nikech an, to nores ngimane"
+      nikech an, to nores ngimane"<br>
       (Luka 9:23-24)
 <br><br>
       "Buru ira, un duto mujony kendo
       mugangoru mapek
-      mondo amiu yueyo
+      mondo amiu yueyo<br>
       (Mathayvo 11:28)
 <br><br>
       Emomiyo, un duto mulokoru
@@ -4073,7 +4073,7 @@ nyaka chieng’.
       ndalo duto.
       <br><i>Ji duto:</i> <b> In bende obed kodi</b>.
 <br><br>
-      <i>Padri</i>: Wamosreuru gi mos mar kue
+      <i>Padri</i>: Wamosreuru gi mos mar kue<br>
       (e kindeni ji nyalo wer ka mosore)
 <br><br>
       14. WER MAR CHIWO NI TICH NYASAYE
@@ -4127,7 +4127,7 @@ nyaka chieng’.
       kendo Jachiw Gik Moko Duto.
       Kuom oganda mane bayo e
       thim ne iyieroe jogi; kuom chan-
-      druokgi ne iyiero nigi
+      druokgi ne iyiero nigi<br>
       <i>Jatelo</i>; kuom oganda ma parogi oke
       ne iyiero nigi Ruoth
       kuom ogandano mong'anyo ne ioro
@@ -4320,7 +4320,7 @@ nyaka chieng’.
       mane okuongo chier oa
       kuom joma otho.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       <br><i>Ji duto:</i> Nyasaye man malo chutho, wa-
       goyoni erokamano kuom
       rwakowa, ka ipuonjowa kendo
@@ -4334,7 +4334,7 @@ nyaka chieng’.
       tichni. Miwa guethni kawuono
       kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       <br><i>Ji duto:</i> A Nyasach kwerewa, Nyasach
       ogandawa, tienge duto kadho kendo
       lal nono e nyimi. Wagoyoni erokamano
@@ -4670,7 +4670,7 @@ nyaka chieng’.
       kagirito singruokgi ndalo duto mag ngımagi?
       <br><i>Ji duto:</i> Ee, wabiro timo kamano.
 <br><br>
-      12. Joma oriw e kend nyalo lamo lemoni <br>KATA
+      12. Joma oriw e kend nyalo lamo lemoni <br>KATA<br>
       lemo moro machielo mowinjore ma gichiworego
       ni Nyasaye.
       A Nyasaye wuonwa mane ochako kend,
@@ -4775,7 +4775,7 @@ nyaka chieng’.
       Achiel kuom Zaburigi inyalo wacho kata wero
 <br><br>
       16. Zaburi 128
-      Nga'to ka nga'to moluoro Ruoth
+<br>      Nga'to ka nga'to moluoro Ruoth
       Nyasaye.
       Kendo ma orito chikene en jahawi,
       Iniyud gik moko duto misetiyonegi,
@@ -4803,7 +4803,7 @@ nyaka chieng’.
       chieng'.<b>Amina</b>.
 <br><br>
       17. Zaburi 121
-      Ating'o wang'a karango gode.
+<br>      Ating'o wang'a karango gode.
       To ere kuma konyruokna biro aye?
       majachuech polo gi piny.
       Onego jaritwa kik we apodhi,
@@ -4827,7 +4827,7 @@ nyaka chieng’.
       chieng'<b>Amina</b>.
 <br><br>
       18. Zaburi 67
-      A Nyasaye, kechwa mondo
+<br>      A Nyasaye, kechwa mondo
       iguedhwa,
       Kendo rangwa gi ng'wono.
       Eka mondo piny duto ong'e yoreni.
@@ -4856,7 +4856,7 @@ nyaka chieng’.
 <br><br>
       19. SOMO WACH NYASAYE.
 <br><br>
-      Somo inyalo yier koa kuom magi <br>KATA
+      Somo inyalo yier koa kuom magi <br>KATA<br>
       moko mowinjore. Chakruok 1:26-28; 2:4-9; Wer
       Mamit 2:10-13; 8:6-7; Tobit 8:5-8; jo-
       Kolosai 3:12-17; Mathayo 7:21-27; 19:3-12;
@@ -4932,11 +4932,10 @@ nyaka chieng’.
     "Guedho Kend",
     """
       <!--pre-->
-      GUEDHO KEND
       WECHE MONEGO IPAR:
 <br><br>
-      Lamoni en mar jo-Kristo ariyo mane jose-
-      *kendore e yor chik mar oganda kata e yor
+      *Lamoni en mar jo-Kristo ariyo mane jose
+      kendore e yor chik mar oganda kata e yor
       chik sirikal to koro gidwaro mondo
       oguedh kendgi e kanisa.
 <br><br>
@@ -4947,14 +4946,14 @@ nyaka chieng’.
       yogo bende onego somgi kuom thuolo
       mar jumapinde moluwore adek kapok
       odiechieng' guedho kend ochopo, no-
-      Some kama:
+      Some kama:<br>
       *Ahulo wach mar guedho kend man e kind
       ..NN.....gi.....NN..... (kihulo kuonde
       ma moro kamoro ae). Kang'ato kuomu
       nigi wach madimon ji ariyogi guedho
       kendgi, to mondo owachi sani. ( ohul rati-
       ro) ma e lendo mokwongo( mar ariyo,
-      mar adek).
+      mar adek).<br>
       *Kapo nono ni ng'ato nigi wach, to lemo
       ok dhi nyime nyaka wechogo losi kaka
       chik dwaro.
@@ -4983,7 +4982,7 @@ nyaka chieng’.
       nyim altar.
 <br><br>
       2. WER<br>
-      3. <br><i>Padri</i>: Ruoth obed kodu
+      3.<i>Padri</i>: Ruoth obed kodu
       <br><i>Ji duto:</i> <b> In bende obed kodi</b>.
 <br><br>
       Ji siko kochung' kendo padri wacho niya:
@@ -5070,7 +5069,7 @@ nyaka chieng’.
       An......... Akuong'ora e nyim Nyasaye kod
       joma ochokore kaerī kawuono ni in
       NN.... in chiega ma ahero, ayie dak kodi
-      kendo riti; e ber kata e rach, e mwandu <br>KATA
+      kendo riti; e ber kata e rach, e mwandu <br>KATA<br>
       e dhier, e two kata e ngima, anaheri kendo
       anariti, kendo anamiyi duong' nyaka chop
       tho pogwa, kaka chik maler mar Nyasaye
@@ -5154,7 +5153,7 @@ nyaka chieng’.
       <br><i>Ji duto:</i> <b> A Ruoth wagoyoni erokamano</b>.
 <br><br>
       <i>Padri</i>: Bende wagoyoni erokamano kuom
-      kend mar....N..... gI N.......
+      kend mar....N..... gi N.......
       <br><i>Ji duto:</i> <b> A Ruoth wagoyoni erokamano</b>.
 <br><br>
       <i>Padri</i>: Kuom hulo ratiro hera manie kindgi.
@@ -5205,7 +5204,7 @@ nyaka chieng’.
       kod duong' gin magi nyaka
       chieng'.<b>Amina</b>.
 <br><br>
-      21. GUETH MOGIK
+      21. GUETH MOGIK<br>
       Nyasaye Wuoro, Nyasaye Wuowi, gi Ny-
       asaye Roho Maler mondo oguedhu kendo
       oritu kendo okonyu. Ee, Ruoth mondo oke-
@@ -5216,7 +5215,7 @@ nyaka chieng’.
       Kendo hap Nyasaye manyalo gik moko
       Duto, Wuoro, wuowi, kod Roho Maler,
       obed kodu kendo osik kodu nyaka chieng'
-     <b>Amina</b>.
+     <b>Amina</b>.<br>
       22. WER MAR WUOK
       <!--/pre-->
   """
@@ -5229,8 +5228,8 @@ nyaka chieng’.
       MAR KEND
 <br><br>
       WECHE MONEGO IPAR
-      *Lamoni inyalo tiyogo kuom paro higni 255
-      kata 50 e kend, kata e nyasi moro amora
+      *Lamoni inyalo tiyogo kuom paro higni 25
+<br>      kata 50 e kend, kata e nyasi moro amora
       mowinjore.
 <br><br>
       *Bende inyalo tiyokode kuom riwo ji ariyo
@@ -5242,14 +5241,14 @@ nyaka chieng’.
       time e lamo mar pogo Sawo Maler mar
       Ruoth kata e lamo mar okinyi.
 <br><br>
-      <h4>CHENRO MAR LEMO</h4>.
+      <h4>CHENRO MAR LEMO</h4>
       1. Wer
       2. Padri teloni joma biro nuoyo kuong'ru-
       okgi, gi luwe ka gimako lwetgi kendo jo
       chung'gi gi nyithindgi bende luwogi. (kapo
       ni oguedhgi gi nyithindo). Ji duto chung'.
 <br><br>
-      3. <br><i>Padri</i>: Ruoth obed kodu.
+      3. <i>Padri</i>: Ruoth obed kodu.
       <br><i>Ji duto:</i> <b> In bende obed kodi</b>.
 <br><br>
       <i>Padri</i>: Jowadwa mwahero, wachokore
@@ -5332,11 +5331,11 @@ nyaka chieng’.
       5. <br><i>Padri</i>: Walam<br>
       <i>Padri</i>: Konyruokwa a mana kuom Ruoth
       Nyasaye,
-      <br><i>Ji duto:</i> Mane ochueyo polo gi piny
+      <br><i>Ji duto:</i> Mane ochueyo polo gi piny<br>
       (Zaburi 124:8)
 <br><br>
       <i>Padri</i>: Ka ok Ruoth Nyasaye ema ogero ot
-      <br><i>Ji duto:</i> To tich jogedo odhi kayiem nono
+      <br><i>Ji duto:</i> To tich jogedo odhi kayiem nono<br>
       (Zaburi 127:1) <br>
       <i>Padri</i>: Ng'ato ka ng'ato moluoro Ruoth
       Nyasaye
@@ -5362,7 +5361,7 @@ nyaka chieng’.
       <i>Padri</i>: Bende usingoru gadiera ni ubiro rito
       kuong'ruoku kod Singruoku mane
       utimo chieng' kend maru?
-      <i>Gi duto:</i><b> Wayie timo kamano</b>.
+      <br><i>Gi duto:</i><b> Wayie timo kamano</b>.
 <br><br>
       <i>Padri</i>: Bende usingoru ni ubiro dhi nyime
       ka uherroru ka ng'ato ka ng'ato kon-
@@ -5370,13 +5369,13 @@ nyaka chieng’.
       amora ubiro temo matek mondo
       ng'ato ka ng'ato orit wadgi kendo
       omiye mor?
-      <i>Gi duto:</i><b> Wabiro timo kamano</b>.
+      <br><i>Gi duto:</i><b> Wabiro timo kamano</b>.
 <br><br>
       <i>Padri</i>: Bende usingoru ni ubiro jiwo wach
       Nyasaye e dalawu kendo tego ng'ato
       ka ng'ato kuomu mondo odagi e ngima
       ma Nyasaye morgo ka utiyo ne Kristo.
-      <i>Gi duto:</i><b> Wabiro timo kamano</b>.
+      <br><i>Gi duto:</i><b> Wabiro timo kamano</b>.
 <br><br>
       Ruoth Nyasaye Wuonwa manie polo mamiyo
       chan mar joot bedo gi olemo mosiko,
@@ -5467,7 +5466,6 @@ nyaka chieng’.
       12. <br><i>Padri</i>: Walam
       A Nyasaye maloso kendo rito kend
       wasayi mondo ior guethni kuom jo-tichnigi ma iseyiero
-      174 Kitap Lamo Manyiendo doelhe
       mondo gidag kanyakla e bwo tipo
       mar ot achiel, kendo imi ng'wononi
       oyue e odgi. Guedh wuokgi oko ken-
@@ -5494,15 +5492,15 @@ nyaka chieng’.
       Mi uyud gueth mar ngima mochwere.
       E nying Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Jomorwgi dok bet e kombegi
-      14. Ji nyalo wer
+      Jomorwgi dok bet e kombegi<br>
+      14. Ji nyalo wer<br>
       15. Ngeche 31:10:37 gi/kata somo moro mogol
-      e muma
-      l6. Yalo
-      17. Wer mar golo sadaka
+      e muma<br>
+      l6. Yalo<br>
+      17. Wer mar golo sadaka<br>
       18. Ka lemoni otim e lamo mar Sawo Maler,
       lamo mondo odhi nyime kochakore e lamo
-      mar hulo richo.
+      mar hulo richo.<br>
       19. Gueth.
       <!--/pre-->
   """
@@ -5514,7 +5512,7 @@ nyaka chieng’.
       LAMO MOKET NI JUMA KA
       JUMA E HIGA NGIMA
 <br><br>
-      WECHE MONEGO IPAR
+      WECHE MONEGO IPAR<br>
       *Ekinde duto lamo achiel kende ema
       itiyogo.
 <br><br>
@@ -5535,9 +5533,9 @@ nyaka chieng’.
       chenro mar somo Muma odiechieng'
       kodiechieng' e higa ngima.
 <br><br>
-      Lemo mag ndalo
+      Lemo mag ndalo<br>
       MUDIRA MOKUONGO MIPAROE
-      BIRO MAR KRISTO.
+      BIRO MAR KRISTO.<br>
       A Nyasaye Manyalo Gik Moko Duto, yie
       ikonywa mondo walony timbe mag
       mudho,
@@ -5551,7 +5549,7 @@ nyaka chieng’.
       Roho Maler.<b>Amina</b>.
 <br><br>
       Somo mogol e barua:-Jo-Rumi 13:8-14
-      Somo mogol e injili:-Mathayo 21:1-13; <br>KATA
+<br>      Somo mogol e injili:-Mathayo 21:1-13; <br>KATA<br>
       Johana 3:1-17; kata Mathayo 24:15-28.
 <br><br>
       Lamo man malono inyalo tigo bang' Sawo
@@ -5559,7 +5557,7 @@ nyaka chieng’.
       mar Biro Kristo nyaka odhiambo moteloni
       chieng' Krismas.
 <br><br>
-      Lamo milamo bang' Sawo
+      Lamo milamo bang' Sawo<br>
       A Ruoth Nyasachwa, mi wabed gi adiera ka
       warito biro mar Wuodi Yesu Kristo Ru-
       odhwa; mondo ka ofwenyore, to oyud ka ok
@@ -5568,8 +5566,8 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
 <br>
-      MUDIRA MAR ARIYO MAR BIRO KRISTO
-      Lamo
+      MUDIRA MAR ARIYO MAR BIRO KRISTO<br>
+      Lamo<br>
 <br><br>
       A Nyasaye Wuonwa, wagoyoni erokamano
       kuom jatichni Johana Jabatiso, mane obiro
@@ -5586,14 +5584,14 @@ nyaka chieng’.
 <br><br>
       Somo mogol e barua
       2 Timotheo 3:14-4:1-8
-      Somo mogol e enjili
-      Mathayo 11:2-11; kata Luka 1:1-25; <br>KATA
+<br>      Somo mogol e enjili
+      Mathayo 11:2-11; kata Luka 1:1-25; <br>KATA<br>
       Johana 1:19-28.
 <br><br>
       MUDIRA MAR ADEK MAR BIRO
       KRISTO
 <br><br>
-      Lamo
+      Lamo<br>
       A Ruodhwa Yesu Kristo, wang'eyo ni isem-
       iyowa thuolo mondo wayud tem kaachiel gi
       jotichni kaka Johana jabatiso mane otho ni-
@@ -5605,7 +5603,7 @@ nyaka chieng’.
       wawach miriambo, to wasik ka wabedo ler
       epiny motimo mudho gi richoni.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       A Ruodhwa Yesu Kristo, kane ibiro
       mokwongo e piny, ne ioro jatichni Johana
       Jabatiso mondo otel nyimi olosni yo. Wakwayį
@@ -5619,15 +5617,14 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Somo mogol e barua 1 Jokorintho 4:1-5
-      Somo mogol e injili: Mathayo 14:1-12; <br>KATA
+<br>      Somo mogol e injili: Mathayo 14:1-12; <br>KATA<br>
       Luka 1:57-66 (kata 67-80); kata Johana 5:31-40.
 <br><br>
-      MUDIRA MAR ANG'WEN MAR BI-
-      RO KRISTO
+      MUDIRA MAR ANG'WEN MAR BIRO KRISTO<br>
 <br><br>
       Lamoni ok tigo e kor juma bang' Disemba 23.
 <br><br>
-      Lamo
+      Lamo<br>
       A Ruoth Yesu Jarwa kendo Jakonywa,
       wamiyi duong' kuom wach warruoknı
       miwuoro nikech ne ok ibiro mondo ing'ad ni
@@ -5639,11 +5636,11 @@ nyaka chieng’.
       Konywa mondo wabed moikore.<b>Amina</b>.
 <br><br>
       Somo mogol e barua 2Petro 3:1-14;
-      Somo mogol e injili Luka 1:39-55; <br>KATA
+      Somo mogol e injili Luka 1:39-55; <br>KATA<br>
       Mathayo 1:18-25; kata Luka 1:39-45
 <br><br>
       Odiechieng' motelo ni chieng' nyuol ru-
-      odhwa (Disemba 24)
+      odhwa (Disemba 24)<br>
       Nyasaye Manyalo Gik Moko Duto, miwa
       bedo gi mor higa ka higa kuom paro nyuol
       mar Wuodi Yesu Kristo: mi mondo ka
@@ -5652,7 +5649,7 @@ nyaka chieng’.
       Jang'adnwa bura.<b>Amina</b>.
 <br><br>
       Somo mogol e barua Tito:2:11-3: 1-7
-      Somo mogol e injili Luka 1:67-79
+<br>      Somo mogol e injili Luka 1:67-79
 <br><br>
       Lamo ma bang' Sawo
 <br><br>
@@ -5662,12 +5659,12 @@ nyaka chieng’.
       dhano Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
       CHIENG' NYWOL RUODHWA
-      YESU KRISTO
-      (miluongo bende ni chieng' Krismas)
+      YESU KRISTO<br>
+      (miluongo bende ni chieng' Krismas)<br>
       Lamoni itimo chakre saa auchiel mapiny ru-
       go chieng' Krismas.
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye mochwere, mane omiyo otienoni
       obedo maler kendo marieny gi lerni ma
       adier; miwa wan jogo moseng'eyo fwenyru-
@@ -5678,10 +5675,10 @@ nyaka chieng’.
       achiel, kawuono kendo ndalo duto.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: 1Johana :4:7-21
-      Somo mogol e lnyjili Luka 2:1-14 (15-20) kata;
+<br>      Somo mogol e lnyjili Luka 2:1-14 (15-20) kata;
       Johana 1:1-14
 <br><br>
-      Lamo bang' Sawo
+      Lamo bang' Sawo<br>
       A Nyasaye Wuonwa e otieno makawuono-
       ni isemiyo wang'eyo biro mar Ruodhwa
       Yesu kendo: jiw yiewa kendo imi wachom
@@ -5691,8 +5688,8 @@ nyaka chieng’.
       nyaka chieng'.<b>Amina</b>.
 <br><br>
       LAMONI ITIMO CHIENG' NYUOL
-      RUODHWA OKINYYI
-      Lamo
+      RUODHWA OKINYYI<br>
+      Lamo<br>
       Duong' obed ni Nyasaye e polo malo, ken-
       do kue obedie piny ni joma oyiero! Kuom
       michne maduong' ma ok nyal wachi ma en
@@ -5701,7 +5698,7 @@ nyaka chieng’.
       walami e tienge dut nyaka chieng'.<b>Amina</b>.
 <br><br>
       Somo mogol e barua Jo-Hibrania 1:1-12
-      Somo mogol e injili Luka 2:1-7(8-20);
+<br>      Somo mogol e injili Luka 2:1-7(8-20);
       Johana 1:1-14; Luka 2:1-14 (15-22)
 <br><br>
       Lamo bang' Sawo
@@ -5714,10 +5711,10 @@ nyaka chieng’.
       kod adiera.<b>Amina</b>.
 <br><br>
       MUDIRA MOKWONGO BANG'
-      KRISMAS
+      KRISMAS<br>
       Lamoni ok konyruokgo ekor juma bang' tarik
-      5 Januar.
-      Lamo
+      5 Januar.<br>
+      Lamo<br>
       Ruoth Yesu, kane in rawera ne ichiko iti ni
       weche jopuonj mane ni Jerusalem kendo ne
       penjogi penjo mane okawo Jonyuolni kod
@@ -5727,7 +5724,7 @@ nyaka chieng’.
       kendo ka Nyasaye kod ji bedo mamor
       kodgi.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       A Nyasaye ma en lwanda mar warruokwa
       wagoyoni erokamano kuom chenro miwuo-
       ro mondo Wuodi obed machal kodwa, to ne
@@ -5738,14 +5735,14 @@ nyaka chieng’.
       otimo,<b>Amina</b>.
 <br><br>
       Somso mogol e barua Jo-Kolosai 1:1-20
-      Somo mogol e Injili Luka 2:41-52; 2:15-21
+<br>      Somo mogol e Injili Luka 2:41-52; 2:15-21
 <br><br>
       MUDIRA MAR ARIYO BANG'
       KRISMAS
 <br><br>
       Lamoni ok tigo ekor juma bang' tarik 5
-      Januar
-      Lamo
+<br>      Januar<br>
+      Lamo<br>
       Wuonwa moherowa, wagoyoni erokamano
       kuom luor mar jatichni Josef, kuom Winjo
       luongni kendo chung' gotieno kawo Yesu
@@ -5756,12 +5753,12 @@ nyaka chieng’.
       odhwa duong'.<b>Amina</b>.
 <br><br>
       Somo mogol e barua 1Johana 1:1-2:1-6
-      Somo mogol e Injili Mathayo 2:13-23:Luka
+<br>      Somo mogol e Injili Mathayo 2:13-23:Luka
       2:22-40
 <br><br>
       Chieng' Mane Kristo ofwenyore ni Joma ok
-      Joyahudi Januar 6
-      Lamo
+      Joyahudi Januar 6<br>
+      Lamo<br>
       Jakony manyalo Gik Moko duto, kuom
       miyo weche mag Maria luor ni mondo wa-
       tim gima Wuodi dwaro mondo watim, ken-
@@ -5769,13 +5766,13 @@ nyaka chieng’.
       divai manyien nikech luor ma wan-go kuom
       Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Somo Isaya 49:1-13
+      Somo Isaya 49:1-13<br>
       Somo mar Injili Johana 2:1-11
 <br><br>
       MUDIRA MOKWONGO BANG'
       FWENYRUOK MILUONGO BENDE
-      NI CHIENG' BATISO MAR YESU.
-      Lamo
+      NI CHIENG' BATISO MAR YESU.<br>
+      Lamo<br>
       Wuoro mochwere, miya tinende kaka ne
       imiyowa chon mondo wane Roho Maler
       kalor kuom Yesu mondo wachak wawinj
@@ -5785,12 +5782,12 @@ nyaka chieng’.
       miyo Yesu Kristo Ruodhwa duong'.<b>Amina</b>.
 <br><br>
       Somo mogol e barua Jo-Rumi 12:1-5
-      Somo mogol e Injili Luka 3:15-22; <br>KATA
+<br>      Somo mogol e Injili Luka 3:15-22; <br>KATA<br>
       Mathayo 3: 13-17; kata Mariko 1: 4-11
 <br><br>
       MUDIRA MAR ARIYO BANG'
-      FWENYRUOK
-      Lamo
+      FWENYRUOK<br>
+      Lamo<br>
       Yesu ma wahero, kuom mwandu mar
       ng'wononi ma wayudo kuom yie ne iloko
       chandruok mar jogi ka imiyogi ngima moro-
@@ -5798,13 +5795,13 @@ nyaka chieng’.
       do wayud chang; kuom Yesu Kristo Ruo-
       dhwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua Jo-Rumi 12: 6-16
-      Somo mogol e Injili Johana 1:43-51; <br>KATA
+      Somo mogol e barua Jo-Rumi 12: 6-16<br>
+      Somo mogol e Injili Johana 1:43-51; <br>KATA<br>
       Mathayo 8:5-13; kata Johana 1: 29-42
 <br><br>
       MUDIRA MAR ADEK BANG'
       FWENYRUOK
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto kendo
       Wuonwa mang'won gilala, kaka wuodi
       Yesu ne oluongo jopuonjre mokwongo
@@ -5813,13 +5810,13 @@ nyaka chieng’.
       mar yie luongni kuom Yesu Kristo Ruodhwa.
      <b>Amina</b>.
 <br><br>
-      Somo mogol e barua Jo-Rumi 12: 16-21
-      Somo mogol e Injili Luka 4:14-21; <br>KATA
-      Mathayo 4:12-23; kata Mariko 1:21-28
+      Somo mogol e barua Jo-Rumi 12: 16-21<br>
+      Somo mogol e Injili Luka 4:14-21; <br>KATA<br>
+      Mathayo 4:12-23; kata Mariko 1:21-28<br>
 <br><br>
       MUDIRA MAR ANG'WEN BANG'
-      FWENYRUOK
-      Lamo
+      FWENYRUOK<br><br>
+      Lamo<br>
 <br><br>
       Yesu moherowa ne ipuonjo giteko kendo ne
       ielo chuny joma ne luwi ka igologi a
@@ -5829,15 +5826,15 @@ nyaka chieng’.
       ngeche; kuom en mangima kendo molocho
       kodi nyaka chieng'.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua Jo-Efeso 3:1-21
-      Somo mogol e Injili Mariko 1: 21-28; <br>KATA
+      Somo mogol e barua Jo-Efeso 3:1-21<br>
+      Somo mogol e Injili Mariko 1: 21-28; <br>KATA<br>
       Mathayo 13: 10-17; kata Johana 4:19-29a
 <br><br>
       Puodhrwok mar mariam nyako maler miluongo
       be ni, chieng' ma ichiwoe Yesu ne Nyasaye e
       hekalu Februari 2
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, wuodi
       Yesu ma jawar mar piny kendo kayo mar
       chuech duto, nowalni kapod otin. Imi wan
@@ -5849,7 +5846,7 @@ nyaka chieng’.
       maler.<b>Amina</b>.
 <br><br>
       Somo Malaki 3:1-5
-      Somo mogol e Injili Luka 2:22-40
+<br>      Somo mogol e Injili Luka 2:22-40
 <br><br>
       ODIECHIENGE MAMOKO
 <br><br>
@@ -5859,7 +5856,7 @@ nyaka chieng’.
       ni Nyasaye e Hekalu nyaka Mudira motelo ni
       ndalo tuono ringruok.
 <br><br>
-      Lamo
+      Lamo<br>
       A Ruoth Nyasachwa, kata obedo ni
       wasechiwore ni tichni kamano, in kendi
       ema inyalo miyowa duoko, ka ok kamano to
@@ -5869,13 +5866,13 @@ nyaka chieng’.
       nikech Piny Ruodhi.<b>Amina</b>.
 <br><br>
       Somo mogol e barua jo-Kolosai 3: 12-17
-      Somo mogol e Injili Luka 5:1-11; <br>KATA
+<br>      Somo mogol e Injili Luka 5:1-11; <br>KATA<br>
       Mathayo 5: 13-20; kata Mariko 1: 29-39
 <br><br>
       MUDIRA MAR ANG'WEN MOTELO
       NI NDALO TUONO RINGRUOK
 <br><br>
-      Lamo
+      Lamo<br>
       A Wuonwa, enying Yesu Kristo, ok wanyal
       gimoro ka ok mana nikech ng'wononi
       mogundho mondo wadage ngima mamiyo
@@ -5886,13 +5883,13 @@ nyaka chieng’.
       telonwa ka watiyo ni Piny Ruodhi.<b>Amina</b>.
 <br><br>
       Somo mogol e barua Jo-Efeso 6: 10-20
-      Somo mogol e Injili Mariko 1: 40-45; <br>KATA
+<br>      Somo mogol e Injili Mariko 1: 40-45; <br>KATA<br>
       Luka 6:17-26; kata Mathayo 5:21-37
 <br><br>
       MUDIRA MAR ADEK MOTELO NI
       NDALO TUONO RINGRUOK
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, Wuodi
       ma en jawarwa Yesu Kristo, ne onyiso
       tekoni ma pok ne one nyaka nene, kendo ne
@@ -5904,13 +5901,13 @@ nyaka chieng’.
       ir Nyasaye.<b>Amina</b>.
 <br><br>
       Somo mogol e barua 1 Johana 3:1-8
-      Somo mogol e Injili Mariko 2:1-12; kata Lu-
+<br>      Somo mogol e Injili Mariko 2:1-12; kata Lu-
       ka 6:27-38; kata Mathayo 6:1-8
 <br><br>
       MUDIRA MAR ARIYO MOTELO NI
       NDALO TUONO RINGRUOK
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, apaka mar
       pinyini osiko yiengo ngimawa kendo miyowa
       luoro. Onego wachiew kendo wang'e ni tekoni
@@ -5922,14 +5919,14 @@ nyaka chieng’.
       odhwa.<b>Amina</b>.
 <br><br>
       Somo mogol e barua 1 Jo-Korintho 9:24-27
-      Somo mogol e Injili Luka 12:16-31; kata Lu-
+<br>      Somo mogol e Injili Luka 12:16-31; kata Lu-
       ka 8:22-35; kata Mathayo 6:25-34
 <br><br>
       Mudira motelo ni ndalo tuono ringruok
 <br><br>
       LAMONI OK TIGO KA OCHAKORE
-      CHIENG' TICH ADEK MAR BURU.
-      Lamo
+      CHIENG' TICH ADEK MAR BURU.<br>
+      Lamo<br>
       Wuonwa Manyalo Gik Moko Duto, Wuodi
       noyie mondo osande nyaka tho ka jaketho
       mondo omi wabed thuolo. Konywa mondo
@@ -5941,7 +5938,7 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Somo mogol e barua 2 Jo-Korintho 11:19-31
-      Somo mogol e Injili Mathayo 17:9-23 (kata 1-23);
+<br>      Somo mogol e Injili Mathayo 17:9-23 (kata 1-23);
       kata Mariko 9: 2-8(kata 9-13); kata Johana
       12:27-36a
 <br><br>
@@ -5951,7 +5948,7 @@ nyaka chieng’.
       MA EN CHIENG' MOKUONGO MAR NDA-
       LO TUONO RINGRUOK.
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto kendo
       Mochwere, in ok ichayo gimoro amora
       misechueyo, to isesingori ni iweyo richo ni
@@ -5963,7 +5960,7 @@ nyaka chieng’.
       kuom Ruodhwa Yesu KrIsto.<b>Amina</b>.
 <br><br>
       Somo Joel 2:12-17
-      Somo mogol e Injili Luka 15:11-32
+<br>      Somo mogol e Injili Luka 15:11-32
 <br><br>
       Lamo ma oket mwaloni inyalo konyruokgo
       bang' pogo Sawo Maler mar Ruoth e
@@ -5972,8 +5969,8 @@ nyaka chieng’.
       bang' mudira mar ang'wen mar tuono
       ringruok.
 <br><br>
-      Bang' Sawo
-      Lamo
+      Bang' Sawo<br>
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, isemiyowa
       Wuodi ma miderma Yesu Kristo mondo
       Obed misango mar richowa kendo ranyisi
@@ -5987,7 +5984,7 @@ nyaka chieng’.
       MUDIRA MOKUONGO MAR NDALO
       TUONO RINGRUOK
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa moherowa, Ruodhwa Yesu Kristo
       nopong' gi kuyo ka oyuago dala Jerusalem
       kuom tamore lokruok a e richone. Puonjwa
@@ -6000,12 +5997,12 @@ nyaka chieng’.
       Nyasaye achiel nyaka chieng'.<b>Amina</b>.
 <br><br>
       Somo mogol e barua 2 Jo-Korintho 6:1-10
-      Somo mogol e Injili Luka 15:1-10; <br>KATA
+<br>      Somo mogol e Injili Luka 15:1-10; <br>KATA<br>
       13:31-35; kata 18:9-14
 <br><br>
       MUDIRA MAR ARIYO MAR NDALO
-      TUONO RINGRUOK
-      Lamo
+      TUONO RINGRUOK<br>
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto,Ruodhwa
       Yesu Kristo nosingo ngima manyaka
       chieng' ni Jogo duto maluwe; konywa mon-
@@ -6015,15 +6012,15 @@ nyaka chieng’.
       Ruodhwa,<b>Amina</b>.
 <br><br>
       Somo mogol e barua 1 Jo-Thesalonika 4:1-8
-      Somo mogol e Injili Luka 14:27-33; <br>KATA
+<br>      Somo mogol e Injili Luka 14:27-33; <br>KATA<br>
       Johana 8:51-59; kata Luka 14:27-33
 <br><br>
       MUDIRA MAR ADEK MAR NDALO
       TUONO RINGRUOK
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, Wuon
-      Ruodhwa Yesu Kristo, ing'eyo dwarowa <br>KATA
+      Ruodhwa Yesu Kristo, ing'eyo dwarowa <br>KATA<br>
       kapok wawachogi, nikech onge malingling'
       mwanyalo pandoni. Miwa rieko mar ng'eyo
       dwaroni, chir mar chung' kuom adiera, kendo
@@ -6031,14 +6028,14 @@ nyaka chieng’.
       Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
       Somo mogol e barua Jo-Efeso 5:1-14
-      Somo mogol e Injili Johana 2:13-22; <br>KATA
+<br>      Somo mogol e Injili Johana 2:13-22; <br>KATA<br>
       Mathayo 10:16-22; kata Johana 1:35-51
 <br><br>
       MUDIRA MAR ANG'WEN MAR
-      NDALO TUONO TINGRUOK
+      NDALO TUONO TINGRUOK<br>
       (Ma bende en chieng' ma oyiedhi mar
-      Mine)
-      Lamo
+      Mine)<br>
+      Lamo<br>
       Wuonwa mang'won, wagoyoni erokamano
       kuom oro Wuodi, Ruodhwa Y esu mondo
       otho eka wayud ngima. Mi mondo wachiew
@@ -6048,11 +6045,11 @@ nyaka chieng’.
       orumo, to waloch kode e piny ruodhe ndalo
       duto nyaka chieng'.<b>Amina</b>.
       Somo mogol e barua. Jo-Galatia 4:21-31
-      (kata Jo-Hibrania 12:22-24)
-      Somo mogol e Injili Johana 3:14-21; <br>KATA
+<br>      (kata Jo-Hibrania 12:22-24)
+      Somo mogol e Injili Johana 3:14-21; <br>KATA<br>
       12:1-18; kata 11:17-44
 <br><br>
-      MUDIRA MOYIEDHI NI CHIENG' MINE
+      MUDIRA MOYIEDHI NI CHIENG' MINE<br>
       Nyasaye ma Jakechji, Wuodi Yesu Kristo,
       nonyuol gi nyako Maria, modakie dala.
       Nazareth, kendo e musalaba ne oyuayo ji
@@ -6065,11 +6062,11 @@ nyaka chieng’.
       do ndalo duto.<b>Amina</b>.
 <br><br>
       Somo Wuok 1:8-14
-      Somo mogol e Injili Luka 2:33-35; Kata Jo-
+<br>      Somo mogol e Injili Luka 2:33-35; Kata Jo-
       hana 19:26-37
 <br><br>
-      Lamo bang' Sawo
-      Lamo
+      Lamo bang' Sawo<br>
+      Lamo<br>
 <br><br>
       Nyasaye moherowa, kaka miyo pidho nyithin-
       de gi chak moa e thuno, wan bende
@@ -6082,7 +6079,7 @@ nyaka chieng’.
       MUDIRA MAR ABICH MAR NDALO
       TUONO RINGRUOK
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto.
       Wuonwa Maler kendo Mochwere, miwa
       mondo wang'e ber mar bolruok kendo bedo
@@ -6092,16 +6089,16 @@ nyaka chieng’.
       jolup Kristo mar adiera: kuom Yesu Kristo
       Ruodhwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua. Jo-Hibrania 9:11-15
-      Somo mogol e Injili Mathayo 20: 17-24; <br>KATA
+      Somo mogol e barua. Jo-Hibrania 9:11-15<br>
+      Somo mogol e Injili Mathayo 20: 17-24; <br>KATA<br>
       Luka 22:1-13
 <br><br>
       MUDIRA MOTELO NI CHIENG'
       CHIER RUODHWA
 <br><br>
       MILUONGO BENDE NI MUDIRA
-      MAR OTHIDHE
-      Lamo
+      MAR OTHIDHE<br>
+      Lamo<br>
       Hosanna, duong' obed ni Wuod Daudi!
       Hosanna duong' obed ne Ruodh ruodhi!
       Mane ochiwo ngimane mondo owarwa, kendo
@@ -6111,20 +6108,20 @@ nyaka chieng’.
       timo kaka ne ipuonjowa; e nying Yesu Kris-
       to Rodhwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua Jo-Filipi 2:5-11
-      Somo mogol e Injili Mathayo 26:14-27, 66
-      kata 27-11:54; kata Mariko 14:1-15, 47 <br>KATA
-      15:1-39 (40-47); kata Luka 22:14-23, 56 <br>KATA
+      Somo mogol e barua Jo-Filipi 2:5-11<br>
+      Somo mogol e Injili Mathayo 26:14-27, 66<br>
+      kata 27-11:54; kata Mariko 14:1-15, 47 <br>KATA<br>
+      15:1-39 (40-47); kata Luka 22:14-23, 56 <br>KATA<br>
       23:1-49
 <br><br>
       TICH ANG'WEN MOTELO NI
-      CHIENG' CHIER
+      CHIENG' CHIER<br>
       E lamo mar okinyi kod mar odhiambo ilamo
       lamo mar mudira mar othidhe. Ka nitie
       Sawo Maler mar Ruoth to ilamo lamo ma
       Oket mwalokani.
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye mochwere, Wuodi Yesu ma en
       Ruodhwa, nochiw mondo oyal to ne ok
       oyude gi ketho, kata kamano pod ne gi
@@ -6135,14 +6132,14 @@ nyaka chieng’.
       wachal kode. Wakwayi ma e nying Yesu
       Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua 1 Jo-korintho 11:17-34
+      Somo mogol e barua 1 Jo-korintho 11:17-34<br>
       Somoe e Injili Johana 13:31b-35
 <br><br>
       CHIENG' THO KRISTO
       MILUONGO BENDE NI TICH ABICH
       MABER
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa Manyalo Gik Moko Duto, Wuodi
       Ruodhwa Yesu noywak e musalaba, "tija
       duto koro orumo" Mi mondo kuom thone
@@ -6151,12 +6148,12 @@ nyaka chieng’.
       kendo Wuowi makayo mane ochier moa
       kuom joma otho.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua Jo-Hibrania 10:1-25;
-      kata Jo-Kolosai 1:18-23
+      Somo mogol e barua Jo-Hibrania 10:1-25;<br>
+      kata Jo-Kolosai 1:18-23<br>
       Somo mogol e Injili Johana 19:38-42
 <br><br>
-      NGESO MOTELO NI CHIENG' CHIER
-      Lamo
+      NGESO MOTELO NI CHIENG' CHIER<br>
+      Lamo<br>
       Wuonwa mochwere, mi mondo wan mose
       batiswa kuom tho mar Wuodi kendo Ja-
       warwa Yesu Kristo, waneg gombowa mari-
@@ -6167,8 +6164,8 @@ nyaka chieng’.
       Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
       CHIENG' CHIER MAR RUODHWA
-      YESU KRISTO
-      Lamo
+      YESU KRISTO<br>
+      Lamo<br>
       Kristo osechier! Ochier adier,<i>Alleluya</i>!
       Nochodo nyororo mar tho gi liel kendo
       nochier gi duong' koro ongima kendo
@@ -6179,14 +6176,14 @@ nyaka chieng’.
       mor mar chierne. Wakwayo ma e nyingi
       Maler.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Hibrania 10:1-25
-      Somo mogol e injili: Johana 20:1-18; <br>KATA
-      Mathayo 28:1-10; kata Mariko 16:1-18; <br>KATA
+      Somo mogol e barua: Jo-Hibrania 10:1-25<br>
+      Somo mogol e injili: Johana 20:1-18; <br>KATA<br>
+      Mathayo 28:1-10; kata Mariko 16:1-18; <br>KATA<br>
       Luka 24:1-12
 <br><br>
       MUDIRA MOKWONGO BANG' CHIER
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa Manyalo Gik Moko Duto, kuom
       Kechni maduong' ne imiyo jopuonjre obedo
       ma mor ka gi neno Ruoth kochier. Miwae
@@ -6196,13 +6193,13 @@ nyaka chieng’.
       Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: 1 Petro 1:3-9; kata 
-      1 Korintho 15:53-58
+      1 Korintho 15:53-58<br>
       Somo mogol e injili: Johana 20:19-29; 
 <br><br>
 <br>
       MUDIRA MAR ARIYO BANG' CHIER
 <br><br>
-      Lamo
+      Lamo<br>
       Malaika ne openjo mon-go: "Marang'o
       umanyo ng'at mangima e kind joma otho?
       Yesu Kristo oseloyo tho gi richo kendo
@@ -6212,13 +6209,13 @@ nyaka chieng’.
       ok nyal loko genowa mar dak kodi e ngima
       mochwere. Wakwayi ma ka wayie kuom
       nyingi moloyo nying' duto.<b>Amina</b>.
-      Somo mogol e barua: 1 Petro 2:19-25
-      Somo mogol e injili: Mariko 15:46: kata 16:1
+      Somo mogol e barua: 1 Petro 2:19-25<br>
+      Somo mogol e injili: Mariko 15:46: kata 16:1<br>
       -8; kata Luka 24:1-12; kata 24:13-35
 <br><br>
       MUDIRA MAR ADEK BANG' CHIER
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa Manyalo Gik Moko Duto, Iler
       kendo wamiyi luor. Mi ngimawa onyis yie,
       ler kod luoro Nyasaye kendo wabolre ka
@@ -6227,15 +6224,15 @@ nyaka chieng’.
       kama olwenda kata nyal ok kethie gik moko
       -kuom Yesu Kristo Ruodhwa.<b>Amina</b>
 <br><br>
-      Somo mogole barua: 1 Petro 2:11-17;<br>KATA
+      Somo mogole barua: 1 Petro 2:11-17;<br>KATA<br>
       Jo-Kolosai 3:1-11
-      Somo mogol e injili: Johana 2:13-22,; kata 11:
+<br>      Somo mogol e injili: Johana 2:13-22,; kata 11:<br>
       (17-26) 27-44; kata Luka 16:19-31
 <br><br>
 <br>
       MUDIRA MAR ANG'WEN BANG' CHIER
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, erokanamano
       kuom miyowa Yesu kuon mar ngima. Ornwa
       teko mar Roho Maler mondo pile watim neno
@@ -6244,14 +6241,14 @@ nyaka chieng’.
       wami joma ng'eny ong'e Jawarwa Yesu
       Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: 2 Jo-Korintho 4:13, <br>KATA
+      Somo mogol e barua: 2 Jo-Korintho 4:13, <br>KATA<br>
       5:1-5
-      Somo mogol e injili: Luka 19:37-48, <br>KATA
+<br>      Somo mogol e injili: Luka 19:37-48, <br>KATA<br>
       24:36-49, kata Johana 6:30-40
 <br><br>
       MUDIRA MAR ABICH BANG' CHIER
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto,Wagoyoni
       erokamano nikech Wuodi Yesu ma Jawar
       mane jonabi okoro kuome e ndalo machon,
@@ -6263,12 +6260,12 @@ nyaka chieng’.
       mar Roho Maler, Nyasaye achiel, kawuono
       Kendo ndalo duto nyaka chieng'.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Rumi 8:28-39
-      Somo mogol e injili Luka 2:25-32 (33-38);
+      Somo mogol e barua: Jo-Rumi 8:28-39<br>
+      Somo mogol e injili Luka 2:25-32 (33-38);<br>
       kata Mariko 16:9-16; kata 15:46-16:1-8
 <br><br>
-      CHIENG' DHI RUODHWA E POLO
-      Lamo
+      CHIENG' DHI RUODHWA E POLO<br>
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, wa-
       goyoni erokamano nikech Yesu Wuodi, Ru-
       odhwa, kuom idho e duong'ne, ka osetieko
@@ -6280,13 +6277,13 @@ nyaka chieng’.
       kode nyaka chieng'. Walami ka wan gi yie
       kuom nyingi Maler.<b>Amina</b>.
 <br><br>
-      Somo Tich Joote 1:1-11
+      Somo Tich Joote 1:1-11<br>
       Somo mogol e injili: Luka 24:44-53
 <br><br>
       MUDIRA MOKWONGO BANG' DHI
-      RUODHWA E POLO
-      (MUDIRA MAR AUCHIEL BANG' CHIER)
-      Lamo
+      RUODHWA E POLO<br>
+      (MUDIRA MAR AUCHIEL BANG' CHIER)<br>
+      Lamo<br>
       Wuonwa Manyalo Gik Moko Duto, ka wate-
       mo mondo wachop ote maduong' mar Ru-
       odhwa, konywa mondo Wapar ni Yesu 
@@ -6299,15 +6296,15 @@ nyaka chieng’.
       Ruoth, kawuono kendo ndalo duto nyaka
       chieng'.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: 1 Petro 4:7-11
-      Somo mogol e injili: Johana 21:1-14, <br>KATA
-      Luka 22:24-30, kata Mathayo 28:1-10; (16-20)
+      Somo mogol e barua: 1 Petro 4:7-11<br>
+      Somo mogol e injili: Johana 21:1-14, <br>KATA<br>
+      Luka 22:24-30, kata Mathayo 28:1-10; (16-20)<br><br>
       MUDIRA MAR ABIRIYO BANG'
-      CHIER
+      CHIER<br>
       (MUDIRA MAR ARIYO BANG' DHI
       RUODHWA E POLO)
 <br><br>
-      Lamo
+      Lamo<br>
       Ruodhwa Yesu, ne ichiko jopuonjre mondo
       odhi e piny duto, oland Wach Maber ni ji
       duto. Mi mondo wan bende wachiwre wad-
@@ -6316,18 +6313,18 @@ nyaka chieng’.
       wabiro dhi ka wamor e nyingi kendo kuom
       teko mar Roho Maler.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Efeso 4:1-13
-      Somo mogol e injili: Mariko 16:14-20, <br>KATA
+      Somo mogol e barua: Jo-Efeso 4:1-13<br>
+      Somo mogol e injili: Mariko 16:14-20, <br>KATA<br>
       Luka 4:14-21; kata 24:44-53
 <br><br>
-      CHIENG' BIRO MAR ROHO MALER
+      CHIENG' BIRO MAR ROHO MALER<br>
       (MILUONGO BENDE NI CHIENG'
-      PENTEKOSTI)
-      Lamo
+      PENTEKOSTI)<br>
+      Lamo<br>
       Lamoni ok konyruokgo e kor juma bang'
       Pentekosti.
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto kendo
       Mochwere, wagoyoni erokamano kuom
       miyowa Roho Maler ma miyo chunywa
@@ -6338,11 +6335,11 @@ nyaka chieng’.
       ndalowani, kuom duong' mar Ruodhwa
       Yesu Kristo man gi loch.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Tich-Joote 2:1-21
+      Somo mogol e barua: Tich-Joote 2:1-21<br>
       Somo mogol e injili: Johana 20:19-23 <br>KATA
       14:15-26 (25-27)
 <br><br>
-      Kata Lamoni:
+      Kata Lamoni:<br>
       A Nyasaye Wuonwa, mi ji duto moyie kuo-
       mi teko mar Roho Maler, mondo wabed
       joneno man gi teko Yesu Kristo Ruodhwa
@@ -6350,9 +6347,9 @@ nyaka chieng’.
       otho, koro olocho kod in gi Roho Maler,
       nyaka chieng'.<b>Amina</b>.
 <br><br>
-      (KINDE MA MAMOKO)
-      MUDIRA MAR DIDEK MALER
-      Lamo
+      (KINDE MA MAMOKO)<br>
+      MUDIRA MAR DIDEK MALER<br>
+      Lamo<br>
       Didek Maler, Nyasaye Wuoro, Nyasaye
       Wuowi, kod Nyasaye Roho Maler, walami,
       wadendi ka waketo yiewa duto kuom
@@ -6362,7 +6359,7 @@ nyaka chieng’.
       molocho kod in gi Roho Maler, ndalo duto
       nyaka chieng'.<b>Amina</b>
 <br><br>
-      Somo mogol e barua: Jo-Efeso 4:3-14
+      Somo mogol e barua: Jo-Efeso 4:3-14<br>
       Somo mogol e injili: Mariko 1:1-13
 <br><br>
       Tich Ang'wen bang' Mudira mar Didek
@@ -6370,7 +6367,7 @@ nyaka chieng’.
       GOYO EROKAMANO ma Yesu ne otimoe
       Sawo mogik ni jopuonjrene. (Corpus Christi)
 <br><br>
-      Lamo
+      Lamo<br>
       Ruoth Yesu Kristo, wagoyoni erokamano
       kuom Sakramit ma isemiyowa mondo wap-
       argo sandnı: Mi mondo wamı luor gik
@@ -6381,10 +6378,10 @@ nyaka chieng’.
       achiel mar Roho Maler, Nyasaye achiel,
       kawuono kendo ndalo duto.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: 1 Jo-Korintho 10:23-32
+      Somo mogol e barua: 1 Jo-Korintho 10:23-32<br>
       Somo mogol e injili: Johana 6:51-58
 <br><br>
-      Lamo bang' Sawo
+      Lamo bang' Sawo<br>
       Pak duto obedni, A Nyasachwa kendo
       Wuonwa, nikech isepidhowa gi chiemb polo
       Kendo inegonwa riyo kuom madho msabibu
@@ -6395,11 +6392,11 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       MUDIRA MOKWONGO BANG'
-      DIDEK MALER
+      DIDEK MALER<br>
       (MA BENDE ILUONGO IN MUDIRA
       MAR ARIYO BANG' PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Wuonwa, Wuodi ma Jawarwa
       Yesu ne chango tuoche kendo miyo ji
       mang'eny bedo gi ngima maber, wakwayi
@@ -6409,8 +6406,8 @@ nyaka chieng’.
       Kuom Yesu Kristo ma Jayath maduong'.
      <b>Amina</b>
 <br><br>
-      somo mogol e barua: Tich-Joote 2:37-47
-      Jomo mogol e injili: Mariko 2:1-12, Luka
+      somo mogol e barua: Tich-Joote 2:37-47<br>
+      Somo mogol e injili: Mariko 2:1-12, Luka
       6:27-38: Mathayo 6:1-8
 <br><br>
 <br>
@@ -6418,8 +6415,8 @@ nyaka chieng’.
       MALER
 <br><br>
       (MUDIRA MAR ADEK BANG'
-      PENTEKOST)
-      Lamo
+      PENTEKOST)<br>
+      Lamo<br>
       Wuonwa Mang'won, ne ibedonwa
       mang'won michiwonwa Wuodi Yesu Kristo,
       mondo tekone kod kechne ochopie tung'
@@ -6432,16 +6429,16 @@ nyaka chieng’.
       iwachonwa, "Yieni osechangi". Kuom
       Jayath maduong' Yesu Kristo.<b>Amina</b>.
 <br><br>
-      Somo: TichJoote 4:8-12
-      Somo mogol e injili: Mathayo 10:40-42; <br>KATA
+      Somo: TichJoote 4:8-12<br>
+      Somo mogol e injili: Mathayo 10:40-42; <br>KATA<br>
       Mariko 5:21-43; kata Luka 9:51-62
 <br><br>
       MUDIRA MAR ADEK BANG'
       DIDEK MALER
 <br><br>
       (MUDIRA MAR ANG'WEN BANG'
-      PENTEKOSTI)
-      Lamo
+      PENTEKOSTI)<br>
+      Lamo<br>
       Agoyoni erokamano, Wuonwa, Ruodh polo
       kod piny, nikech isepando gigi ni joma riek
       kod joma osomo, to isenyiso mana nyithin-
@@ -6450,8 +6447,8 @@ nyaka chieng’.
       mayom wachiwre ni piny ruodhi ka wadak e
       ngima makelo ni nyingi duong'.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Galatia 3:23-4:1-7
-      Somo mogol e injili: Mathayo 11:16-19, <br>KATA
+      Somo mogol e barua: Jo-Galatia 3:23-4:1-7<br>
+      Somo mogol e injili: Mathayo 11:16-19, <br>KATA<br>
       25-30 kata Mariko 6:1-13; kata Luka 10:1-
       11,16-20
 <br><br>
@@ -6459,8 +6456,8 @@ nyaka chieng’.
       DIDEK MALER
 <br><br>
       (MUDIRA MAR ABICH BANG' PEN-
-      TEKOSTI)
-      Lamo
+      TEKOSTI)<br>
+      Lamo<br>
       Wuonwa makecho ji, mi mondo ji duto mo-
       heri owinj Wach Maber mar Yesu Kristo
       kendo gi kan gi e chunygi. Mad wachni bed
@@ -6470,14 +6467,14 @@ nyaka chieng’.
 <br><br>
       Somo mogol e barua: Jo-Rumi 8:18-23; <br>KATA
       Jo-Efeso 5:1-10
-      Somo mogol e injili: Mathayo 13:1-9, kata 18-
+<br>      Somo mogol e injili: Mathayo 13:1-9, kata 18-
       23: kata Mariko 6: 14-29; kata Luka 10:25-37
 <br><br>
       MUDIRA MAR ABICH BANG' DIDEK
-      MALER
+      MALER<br>
       (MUDIRA MAR AUCHIEL BANG'
-      PENTEKOSTI)
-      Lamo
+      PENTEKOSTI)<br>
+      Lamo<br>
       Wuonwa, kuom horruok kod kinda mari ne
       olong'oni mondo ogolo kod ngano odongi
       kanyakla nyaka chopi ndalo keyo. Konywa
@@ -6487,16 +6484,16 @@ nyaka chieng’.
       wayie kuom Yesu Kristo Ruodhwa kendo
       Jawarwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Kolosai 3:12-17
-      Somo mogol e injili: Mathayo 13:24-30, <br>KATA
+      Somo mogol e barua: Jo-Kolosai 3:12-17<br>
+      Somo mogol e injili: Mathayo 13:24-30, <br>KATA<br>
       36-43; kata Mariko 6:30-34, kata 53-56; ka-
       ta Luka 10:38-42
 <br><br>
       MUDIRA MAR AUCHIEL BANG'
-      DIDEK MALER
+      DIDEK MALER<br>
       (MUDIRA MAR ABIRIYO BANG'
-      PENTEKOSTI)
-      Lamo
+      PENTEKOSTI)<br>
+      Lamo<br>
       Wuonwa Manyalo Gik Moko Duto, wagoyoni
       erokamano nikech Yesu Ruodhwa ma en
       kuon mar ngima, ma gombo mare en ni
@@ -6510,16 +6507,16 @@ nyaka chieng’.
       Nyasaye achiel, kawuono, kendo ndalo duto
       nyaka chieng'.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Rumi 8:1-11
-      Somo mogol e injili: Mathayo 13:31-33,<br>KATA
+      Somo mogol e barua: Jo-Rumi 8:1-11<br>
+      Somo mogol e injili: Mathayo 13:31-33,<br>KATA<br>
       44-52; kata Johana 6:1-21; kata Luka 11:1-13
 <br><br>
       MUDIRA MAR ABIRIYO BANG'
-      DIDEK MALER
+      DIDEK MALER<br>
       (MUDIRA MAR ABORO BANG'
       PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasachwa kendo Wuonwa, wapaki nikech
       Jawarwa Yesu ne ong'eyo dwaro mar ji
       duto mane luwe, kendo ne okechogi, kuom
@@ -6528,15 +6525,15 @@ nyaka chieng’.
       kawuono, kendo imigi moromo chutho
       mwandu mag duong'ni mochwere.<b>Amina</b>.
 <br><br>
-      somo mogol e barua: 1 Jo-Korintho 12:4-13
+      somo mogol e barua: 1 Jo-Korintho 12:4-13<br>
       Somo mogol e injili: Mathayo 14:13-21; <br>KATA
       Johana 6:24-35; kata Luka 12:13-21
 <br><br>
       MUDIRA MAR ABORO BANG'
-      DIDEK MALER
+      DIDEK MALER<br>
       (MUDIRA MAR OCHIKO BANG'
-      PENTEKOSTI)
-      Lamo
+      PENTEKOSTI)<br>
+      Lamo<br>
       Wuonwa Moherowa, ing'eyo parruok manie
       chunywa kendo isomogi kaka ng'ato somo
       buk moel. Ing'eyo ka waluor kendo watetni
@@ -6546,7 +6543,7 @@ nyaka chieng’.
       kinde duto ni duok Yesu Ruodhwa man gi
       loch.<b>Amina</b>,
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Ruoth, ichopo irwa kuom herani kod kechni
       kuom jogo mayuak ka dwaro kony. Bi ir-
       wa, A Ruoth, mondo ireswa ka waluongo
@@ -6554,16 +6551,16 @@ nyaka chieng’.
       kendo herani oumwa kuom luor kod duong'
       mar nyingi maler.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua:2 Jo-Korintho 6:3-10
-      Somo mogol e injili: Mathayo 14:22-33; <br>KATA
+      Somo mogol e barua:2 Jo-Korintho 6:3-10<br>
+      Somo mogol e injili: Mathayo 14:22-33; <br>KATA<br>
       Johana 6:35, 41-51; kata Luka 12:32-40
 <br><br>
       MUDIRA MAR OCHIKO BANG'
-      DIDEK MALER
+      DIDEK MALER<br>
       (MUDIRA MAR APAR BANG'
       PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa Mochwere, parowa nyap kendo
       pile ok wafweny weche mopondo mag war-
       ruok. Walami mondo imiwa winjo matut
@@ -6571,16 +6568,16 @@ nyaka chieng’.
       wan gi geno kuom piny ruodhi. Kuom
       Yesu Ruodhwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Filipi 2:1-11
-      Somo mogol e injili: Johana 6:51-58: <br>KATA
+      Somo mogol e barua: Jo-Filipi 2:1-11<br>
+      Somo mogol e injili: Johana 6:51-58: <br>KATA<br>
       Luka 12:49-56; kata Mathayo 20:1-16
 <br><br>
       MUDIRA MAR APAR BANG' DIDEK
-      MALER
+      MALER<br>
       (MUDIRA MAR APAR GACHIEL
       BANG' PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       Nyasaye Manyalo Gik Moko Duto, kuom
       Wuodi ma Jawarwa Yesu, ichango tuoche-
       wa kod midekrewa. Konywa mondo
@@ -6593,14 +6590,14 @@ nyaka chieng’.
       ndalo duto nyaka chieng'.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: 1 Petro 2:18-25
-      Somo mogol e injili: Mathayo 16:13-20; <br>KATA
+<br>      Somo mogol e injili: Mathayo 16:13-20; <br>KATA<br>
       Johana 6:56-69; kata Luka 13:10-17
 <br><br>
       MUDIRA MAR APAR GACHIEL
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR APAR GARIYO
-      BANG' PENTEKOSTI)
-      Lamo
+      BANG' PENTEKOSTI)<br>
+      Lamo<br>
       Wuonwa Mochwere, wagoyoni erokamano
       Kuom Yesu Jareswa, kuom kechne ni jomatuo
       duto, kod joma sandore, kuom chiwruok
@@ -6611,17 +6608,17 @@ nyaka chieng’.
       kendo nyaka chieng'.<b>Amina</b>,
 <br><br>
       Somo mogol e barua: 2 Jo-Korintho 5:14; 6:1-2
-      Somo mogol e injili: Mariko 7: 1-8, 14, 15,21
-      -23; kata Mathayo 4:23-5:1-20.
+<br>      Somo mogol e injili: Mariko 7: 1-8, 14, 15,21
+<br>      -23; kata Mathayo 4:23-5:1-20.
 <br><br>
       MUDIRA MA IPAROE MUMA MALER
       NDIKO MALER MOA E MUCH
       NYASAYE
       Mudira ma iparoe Muma Maler onego tim
-      chieng' Mudira mar ariyo ma Septemba <br>KATA
+      chieng' Mudira mar ariyo ma Septemba <br>KATA<br>
       kaka Bible Society of Kenya ochano.
 <br><br>
-      Lamo
+      Lamo<br>
       Ruoth Moguedhi, in ema ne imiyo ndiko
       Maler duto ondiki mondo wapuonjrego:
       Konywa mondo wawinjgi, wasomgi, waritgi,
@@ -6643,14 +6640,14 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Somo mogol e barua: 2 Timotheo 3:15-17
-      Somo mogol e injili: Luka 4:14-30, <br>KATA
+<br>      Somo mogol e injili: Luka 4:14-30, <br>KATA<br>
       Mathayo 22:34-40
 <br><br>
       MUDIRA MAR APAR GARIYO
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR APAR GADEK
-      BANG' PENTEKOSTI)
-      Lamo
+      BANG' PENTEKOSTI)<br>
+      Lamo<br>
       Wuonwa Mang'won manie polo,
       isesiemowa ni mondo wakwan nengo mar
       bedo jopuonjreni, eka wachiwreni chutho.
@@ -6662,16 +6659,16 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Somo mogol e barua: Tich Joote 20:17-35
-      Somo mogol e injili: Mariko 7:24-37; <br>KATA
+<br>      Somo mogol e injili: Mariko 7:24-37; <br>KATA<br>
       Mathayo 6:1-18; kata Luka 14:25-33
 <br><br>
 <br>
       MUDIRA MAR APAR GADEK
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR APAR GANG' WEN
       BANG' PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       A Wuonwa Makare, idwaro ni wawe gik
       moko duto mag piny to mondo wabed kuo-
       mi eka wayud gik ma wadwaro. Wakwayi
@@ -6682,15 +6679,15 @@ nyaka chieng’.
       ma ne othonwa.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: Jo-Efeso 3:14-21
-      Somo mogol e injili: Mariko 8:27-38: <br>KATA
+<br>      Somo mogol e injili: Mariko 8:27-38: <br>KATA<br>
       Mathayo 7:1-14; kata Johana 6:59-69
 <br><br>
       MUDIRA MAR APAR GANG'WEN,
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR APAR GABICH
       BANG' PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa in e Chakruok kendo Giko, In e wi
       gik moko duto mane ichueyo. Wayie ni in
       kodwa ei chandruok duto ma yudowa kinde
@@ -6702,15 +6699,15 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Somo mogol e barua: Jo-Galatia 5:16-24
-      Somo mogol e injili: Mariko 9:30-37; <br>KATA
+<br>      Somo mogol e injili: Mariko 9:30-37; <br>KATA<br>
       Mathayo 8:23-34; kata Johana 7:14-36
 <br><br>
       MUDIRA MAR APAR GABICH
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR APAR GAUCHIEL
       BANG' PENTEKOST)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasach kwerewa, Nyasach Ibrahim,Isa-
       ka gi Jakobo. Wuodi ma Jawarwa e yo,
       kendo e adiera, bende en e ngima. Mad
@@ -6721,14 +6718,14 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Somo mogol e barua: 1 Johana 4:15-21
-      Somo mogol e injili: Mariko 9:38-50; <br>KATA
+<br>      Somo mogol e injili: Mariko 9:38-50; <br>KATA<br>
       Mathayo 9:1-8; kata Johana 8:31-38, 48-59
 <br><br>
       MUDIRA MAR APAR GAUCHIEL
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR APAR GABIRIYO
-      BANG' PENTEKOSTI)
-      Lamo
+      BANG' PENTEKOSTI)<br>
+      Lamo<br>
       A Nyasaye Ruodhwa, mohero nyithindo,
       Idwaro ni ji duto ma dwaro donjo e piny
       ruodhi, nyaka chalgi nyithindo matindo.
@@ -6739,7 +6736,7 @@ nyaka chieng’.
       Wakwayi ma e nying Yesu Kristo.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: Jakobo 1:16-27
-      Somo mogol e injili: Mariko 10:2-16; <br>KATA
+<br>      Somo mogol e injili: Mariko 10:2-16; <br>KATA<br>
       Mathayo 10:1-22; kata Johana 9:1-41
 <br><br>
       MUDIRA MAR APAR GABIRIYO
@@ -6748,7 +6745,7 @@ nyaka chieng’.
       (MUDIRA MAR APAR GABORO
       BANG' PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa Manyalo Gik Moko Duto, pile
       watamore rwako herani nikech tokwa tek,
       kendo ok wahero joma moko kaka onego
@@ -6763,14 +6760,14 @@ nyaka chieng’.
       nyaka chieng'.<b>Amina</b>
 <br><br>
       Somo mogol e barua: 1 Petro 4:7-11
-      Somo mogol e injili: Mariko 10:17-31; <br>KATA
+<br>      Somo mogol e injili: Mariko 10:17-31; <br>KATA<br>
       Mathayo 11:20-30; kata Johana 15:12-27
 <br><br>
       MUDIRA MAR APAR GABORO
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR APAR GOCHIKO
-      BANG' PENTEKOSTI)
-      Lamo
+      BANG' PENTEKOSTI)<br>
+      Lamo<br>
       Wuonwa Moherowa, wagoyoni erokamano
       kuom puonjowa kokadho kuom Wuodi
       Yesu, ni yo mar yudo duong' en ni nyaka
@@ -6781,14 +6778,14 @@ nyaka chieng’.
       mondo omi nyinge maler duong'.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: 2 Jo-Korintho 6:3-10
-      Somo mogol e injili: Mariko 10:35-45; <br>KATA
+<br>      Somo mogol e injili: Mariko 10:35-45; <br>KATA<br>
       Mathayo 12:1-21; kata Johana 16:1-11
 <br><br>
       MUDIRA MAR APAR GOCHIKO
-      BANG' DIDEK MALER
+      BANG' DIDEK MALER<br>
       (MUDIRA MAR PIERO ARIYO BANG'
-      PENTEKOSTI)
-      Lamo
+      PENTEKOSTI)<br>
+      Lamo<br>
       Wuonwa, enying Wuodi Yesu, wagoyoni
       erokamano kuom puonjowa ni chik maduong'
       moloyo en ni waheri kendo waher jowadwa.
@@ -6801,15 +6798,15 @@ nyaka chieng’.
 <br><br>
       Somo mogol e barua: Jakobo 2:8-13; Jo-
       Rumi 8:18-25
-      Somo mogol e injili: Mariko 12:28-34; <br>KATA
+<br>      Somo mogol e injili: Mariko 12:28-34; <br>KATA<br>
       Luka 18:9-14; kata Mathayo 22:34-46
 <br><br>
       MUDIRA MAR PIER0 ARIYO BANG'
-      DIDEK MALER
+      DIDEK MALER<br>
       (MUDIRA MAR PIERO ARIYO
       GACHIEL BANG' PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       A Ruoth Nyasachwa, in ema ing'eyo nyaka
       a chakruok, weche mopondo mag ngima
       kod tho ok gin weche maling'ling' kuomi,
@@ -6825,16 +6822,16 @@ nyaka chieng’.
       duto nyaka chieng".<b>Amina</b>.
 <br><br>
       Somo mogol e barua: Jo-Filipi 2:12-18
-      Somo mogol e injili: Mathayo 8:23-34; <br>KATA
+<br>      Somo mogol e injili: Mathayo 8:23-34; <br>KATA<br>
       Johana 7:14-36; kata Mariko (:30-37
-      MUDIRA MAR PIERO ARIYO
+<br>      MUDIRA MAR PIERO ARIYO
       GACHIEL bang' DIDEK MALER
 <br><br>
 <br>
       (MUDIRA MAR PIERO ARIYO GARI-
       O bang' PENTEKOSTI)
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa Mochwere, miwa, wahombi,mon-
       do jotichni malando Wach Maber obed jom-
       betre mag adiera kendo jo ratiro e piny,
@@ -6844,14 +6841,14 @@ nyaka chieng’.
       honni enyingi maler.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: 1 Johana 2:22-29
-      Somo mogol e injili: Mariko 9:38-50; <br>KATA
+<br>      Somo mogol e injili: Mariko 9:38-50; <br>KATA<br>
       Luka 16:19-31; kata Mathayo 21:23-52
 <br><br>
       MUDIRA MAR PIERO ARIYO GARI-
-      YO BANG' DIDEK MALER
+      YO BANG' DIDEK MALER<br>
       (MUDIRA MAR PIERO ARIYO GADEK
-      BANG' PENTEKOSTI)
-      Lamo
+      BANG' PENTEKOSTI)<br>
+      Lamo<br>
       A Nyasaye Makecho ji, iseiko ni jogo mo-
       heri gik moko mabeyo modhiero rieko
       dhano ng'eyo. Ol hera ei chunywa mamiyo
@@ -6860,16 +6857,16 @@ nyaka chieng’.
       duto ma wagombo; kuom Yesu Kristo Ru-
       odhwa.<b>Amina</b>.
 <br><br>
-      Somo mogol e barua: Jo-Filipi 3:7-21; <br>KATA
+      Somo mogol e barua: Jo-Filipi 3:7-21; <br>KATA<br>
       Fweny 7:2-4, 9
-      9mo mogol e injili: Johana 17:1-10; <br>KATA
+<br>      9mo mogol e injili: Johana 17:1-10; <br>KATA<br>
       Mathayo 25:1-13
-      Kapo ni nitie mudira 23 bang' Didek Maler
+<br>      Kapo ni nitie mudira 23 bang' Didek Maler
       to ikonyruok gi mar mudira mar adek mote-
       lo ni ndalo tuono ringruok. Itiyo kode kar
       mudira mar 21 bang'didek maler.
 <br><br>
-      CHIENG' JO-NYASAYE DUTO
+      CHIENG' JO-NYASAYE DUTO<br>
       (Novemba 1)
       A Nyasaye Manyalo Gik Moko Duto, isem-
       iyo jogi moyier obedo e kanyakla achiel,
@@ -6883,7 +6880,7 @@ nyaka chieng’.
       ing Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: Fweny 7:2-12
-      Somo mogol e injili: Mathayo 5:1-12
+<br>      Somo mogol e injili: Mathayo 5:1-12
 <br><br>
       Lamo bang' sawo
       A Nyasaye, machakruok mar ler duto kendo
@@ -6898,7 +6895,7 @@ nyaka chieng’.
       MUDIRA MAR ANG'WEN MOTELO
       NI BIRO MAR KRISTO
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, kendo
       Mochwere, in ema imiyo Jo-Nyasaye teko
       ka iorogi e tichni, wan bende miwa teko
@@ -6910,13 +6907,13 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Somo mogol e barua: Jo-Rumi 13:8-14
-      Somo mogol e injili: Mariko 10:2-16; <br>KATA
+<br>      Somo mogol e injili: Mariko 10:2-16; <br>KATA<br>
       Mathayo 11:20-30; kata Johana 9:1-41
 <br><br>
       MUDIRA MAR ADEK MOTELO NI
       BIRO MAR KRISTO
 <br><br>
-      Lamo
+      Lamo<br>
       A Wuonwa Manyalo Gik Moko Duto, e ny-
       ing Wuodi Yesu mane odak kendo otiyo e
       mier mane nitie ndalono, wasayi mondo
@@ -6932,14 +6929,14 @@ nyaka chieng’.
       do odogne nyaka chieng'.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: 1 Jo-Korintho 4: 1-5
-      Somo mogol e injili: Johana 15:12-27; <br>KATA
+<br>      Somo mogol e injili: Johana 15:12-27; <br>KATA<br>
       Mathayo 11:20-30; kata Mariko 10:17-31
 <br><br>
 <br>
       MUDIRA MAR ARIYO MOTELO NI
       BIRO MAR KRISTO
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa manie polo, Wuodi ma Jawarwa
       Yesu nobiro golo tich Satan oko e piny.
       Miwa nyalo kuom teko mar Roho Maler
@@ -6953,7 +6950,7 @@ nyaka chieng’.
 <br><br>
       Somo mogol e barua: 1 Jo-Korintho 4:1-5; Jo
       -Filipi 4:4-9
-      Somo mogol e injili: Luka 9:1-6; kata Mathayo
+<br>      Somo mogol e injili: Luka 9:1-6; kata Mathayo
       13:24-30, 36-43; kata 13:1-9, 18-23
 <br><br>
 <br>
@@ -6971,11 +6968,11 @@ nyaka chieng’.
       kawuono kendo ndalo duto.<b>Amina</b>.
 <br><br>
       Somo mogol e barua: 1 Jo-Korintho 1:26-31
-      Somo mogol e injili: Johana 18:33-37; <br>KATA
+<br>      Somo mogol e injili: Johana 18:33-37; <br>KATA<br>
       Luka 23:33-43; kata Mathayo 25:31-46
 <br><br>
       Lamo ma bang' Sawo
-      Lamo ma bang' Sawo Maler mar Ruoth
+      Lamo ma bang' Sawo Maler mar Ruoth<br>
       (inyalo konyruok go kaka lamo mar ndalo e
       lamo mar okinyi kata e lamo mar odhiambo
       e kor juma)
@@ -7016,7 +7013,7 @@ nyaka chieng’.
       <h4>CHENRO MAR LEMO</h4>.
       I. Wer 146 "To mise mar Kanisa en Yesu
       Wuod Nyasaye 146
-      Padri kod jodong Kanisa wacho ni Bishop
+<br>      Padri kod jodong Kanisa wacho ni Bishop
       niya:
       2. Wuonwa ma waluoro e tich Nyasaye,
       wakwayi elo jo-Kristo mag Kanisani kod
@@ -7030,7 +7027,7 @@ nyaka chieng’.
       Bishop nyalo wacho wechegi kata ma moko
       ma owinore.
       3. Owete gi nyimine kuom Kristo, wachokore
-      Kaeri mondo wakel mise mar Kanisani
+      Kaeri mondo wakel mise mar Kanisani<br>
       (onyalo luongo nying Kanisano) ma koro igero
       mondo obed kar lamo Nyasaye. Koro walam
       mondo tich maberni odhi nyime nyaka chop e
@@ -7069,8 +7066,8 @@ nyaka chieng’.
       21:42-44; Jo-Efeso 2:19-22; IPetro 2:4-8.
 <br><br>
       6. Wer
-      7. SOMO WACH NYASAYE.
-      (Inyalo tiyo gi somo mar ndalo <br>KATA
+      7. SOMO WACH NYASAYE.<br>
+      (Inyalo tiyo gi somo mar ndalo <br>KATA<br>
       moko ma ownjore).
 <br><br>
       Zaburi
@@ -7122,7 +7119,7 @@ nyaka chieng’.
       to. Magi duto wakwayo mana kuom duong'
       mar Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       12. Nyasaye Manyalo Gik Moko Duto, Wuodi
       Yesu Kristo e kidi mangima ma ne iyiero
       kendo ma nengone tek. Gerwa kaka kite mangima
@@ -7295,7 +7292,7 @@ nyaka chieng’.
       ema un gi duong' maromre gi duong' mar
       Nyasaye Wuoro.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Bishop: Duong' obed ni Wuoro;
       <br><i>Ji duto:</i> Duong' obed ni Wuowi.
 <br><br>
@@ -7352,7 +7349,7 @@ nyaka chieng’.
       niji e wer.
 <br><br>
       Jasomo Somo: Tito 3:5-7
-      Ne ok owarowa nikech timwa makare moro
+<br>      Ne ok owarowa nikech timwa makare moro
       amora ma wan wawegi ne wasetimo, to
       nowarowa mana nikech ng'wonone owuon.
       Nowarowa gi lwok mane Roho Maler
@@ -7382,7 +7379,7 @@ nyaka chieng’.
 <br>
       8. WALO KAR SOMO WACH NYASAYE:
       Jasomo: Somo: 2 Timotheo 3:16
-      Weche duto manie Muma wuok kuom much
+<br>      Weche duto manie Muma wuok kuom much
       Nyasaye, kendo konyo kuom puonjoji, ken-
       do kuom kwero gik maricho, kendo kuom
       rieyo ji, kendo kuom tiego ji mondo obed
@@ -7404,13 +7401,13 @@ nyaka chieng’.
 <br><br>
       9. WALO KAR PUONJO WACH NYASAYE
       Jasomo Somo: 2 Timithoe 4:1,2
-      E nyim Nyasaye, kendo e nyim
+<br>      E nyim Nyasaye, kendo e nyim
       Kristo Yesu, mabiro ng'ado bura ni
       joma ngima gi joma otho,aparoni ni
       Kristo biro duogo mondo olochi
       Omiyo amiyi chikni, land Wach Ny-
       asaye, kendo ket chunyi kuom tijno
-      e kinde duto, kata ka piny ber <br>KATA
+      e kinde duto, kata ka piny ber <br>KATA<br>
       rach. Kwer weche duto ma ok ni
       kare, kendo rie weche maricho, ki-
       jiwo ji kendo ipuonjo gi kinda duto.
@@ -7432,7 +7429,7 @@ nyaka chieng’.
 <br><br>
       10. WALO KAR TELO NI LEMO:
       Somo: 1 Timotheo 2:1-2
-      Padri mar Parish: Koro wach mokwongo
+<br>      Padri mar Parish: Koro wach mokwongo
       ma akwayo en ni mondo ji oter
       ywakgi ir Nyasaye ka gi lemo kendo
       kagısayo ni ji duto, kendo gigoyo
@@ -7459,7 +7456,7 @@ nyaka chieng’.
       11. WALO KAR GOYO CHONG PINY E
       KINDE SAWO
       Somo: Zaburi 27:4
-      Jasomo: Asekwayo Ruoth Nyasaye gimoro
+<br>      Jasomo: Asekwayo Ruoth Nyasaye gimoro
       achiel kende,kendo mano ema ad-
       waro moloyo; adwaro dak e ode
       kuom ngimana duto, mondo ane ber
@@ -7485,7 +7482,7 @@ nyaka chieng’.
 <br><br>
       12. WALO MESA MALER MAR RUOTH
       Somo: Zaburi 23:5
-      Jasomo: Iketo chiemo e nyima mana ka wasi-
+<br>      Jasomo: Iketo chiemo e nyima mana ka wasi-
       ka duto neno. Irwaka gi ng'wono ka
       iwiro wiya gi mo, kendo ipong'o
       kikombona, mi o piny.
@@ -7508,9 +7505,9 @@ nyaka chieng’.
       Jower, wero wer moyiedhi e kinde ma ikelo gi
       sawo kod gi lemo mamoko.
       Somo: 2 Timotheo 2:20-21
-      Jasomo: Ong'ere ni e ot moro amora maduong'
+<br>      Jasomo: Ong'ere ni e ot moro amora maduong'
       nitie agulini mopogore opogore
-      ma moko olos gi dhahabu <br>KATA
+      ma moko olos gi dhahabu <br>KATA<br>
       fedha, to moko bende olos gi bao
       kata lowo. Mokwongogo itiyogo tije
       mogen, to mokogo itiyogo tich ati-
@@ -7797,7 +7794,7 @@ nyaka chieng’.
       ndiko manie kidi. Ji duto wer ka gigoyo
       Sigalagala ka giwer kendo gipamo
 <br><br>
-      26. GUETH MOGIK
+      26. GUETH MOGIK<br>
       (Inyalo wacho man mwalokani kata moro
       amora ma bishop oyiero).
 <br><br>
@@ -7829,7 +7826,7 @@ nyaka chieng’.
       *Bishop e matelo ni lamoni kata ng'at ma-
       chielo ma oyiero.
 <br><br>
-      *Ka osetim lemoni, to ot i nyalo muki <br>KATA
+      *Ka osetim lemoni, to ot i nyalo muki <br>KATA<br>
       tiyogo tije mamoko maok ogak.
 <br><br>
       *Lamoni itimo mana ni ot mane osewal
@@ -7903,7 +7900,7 @@ nyaka chieng’.
 <br><br>
       Bishop wacho wechegi:
       6. (E lo Bishop mar Diosesni) Ahulo ni odni
-      koro ok bikonyruokgo kaka kar lemo <br>KATA
+      koro ok bikonyruokgo kaka kar lemo <br>KATA<br>
       ma itimoe tije mag sakramit kaka kit kanisa
       mar Anglikan e Kenya. A lando ni odni koro
       inyalo (muki) kata timoe tije ma moko. E
@@ -8014,7 +8011,7 @@ nyaka chieng’.
       Lum ner, kendo maua two, ka much Ruoth
       Nyasaye okudhogi. Chutho, dhano chalo
       lum (Isaya 40:7)
-      Joma okuyo gin jahawi, nikech nohogi
+      Joma okuyo gin jahawi, nikech nohogi<br>
       (Mathayo 5:4)
       Mano kaka lit ni Ruoth Nyasaye ka ng'ate
       moro otho! (Zaburi 116:15)
@@ -8045,7 +8042,7 @@ nyaka chieng’.
       obiro telonwa nyaka chieng' (Zaburi 48:14)
 <br><br>
       To bed jaadiera nyaka kar tho mi anamiyi
-      osimbo mar ngima, kaka ranyisi ni iselocho.
+      osimbo mar ngima, kaka ranyisi ni iselocho.<br>
       (Fweny 2:10b)
 <br><br>
       1.WER
@@ -8080,16 +8077,16 @@ nyaka chieng’.
       Kinde mar dwaro gimoro, gi kinde ma gimor
       lalie;
       Kinde mar yiecho gimoro, gi kinde mar bepo,
-      Kinde mar ling', gi kinde mar wuoyo.
+      Kinde mar ling', gi kinde mar wuoyo.<br>
       (Eklesiastes 3:1-8)
 <br><br>
       4. SOMO ZABURI
       Inyalo somo zaburi 23 kata 121 kata achiel
       Kuom magi- Zaburi 16: 1-11; 49:7-15; 73:21
-      -28; 139: 1-18
+<br>      -28; 139: 1-18
 <br><br>
       ZABURI 23
-      Ruoth Nyasaye e jakwadha.
+<br>      Ruoth Nyasaye e jakwadha.
       Kuom mano ok anyal chando gimoro.
       En ema omiyo anindo e lum mang'ich
       Kendo otera modho pi mokue.
@@ -8107,9 +8104,9 @@ nyaka chieng’.
       ndalo duto mag ngimana, kendo nadag e
       odi nyaka chieng'.<b>Amina</b>
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       ZABURI 121
-      Ating'o wang'a ka arango gode.
+<br>      Ating'o wang'a ka arango gode.
       to ere kuma konyruokna biro aye?
       Konyruokna a mana kuom Ruoth Ny-
       asaye, ma jachwech polo gi piny.
@@ -8151,9 +8148,9 @@ nyaka chieng’.
       wageno kuome, omiyo wabeduru mamor
       kendo moil nikech osewarowa.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       1 Jo-Thesalonika 4: 14-18
-      Wayie ni Yesu notho, kendo ochako ochier
+<br>      Wayie ni Yesu notho, kendo ochako ochier
       Kamano bende e kaka wach joma otho
       koyie kuom Kristo nobedi. Nyasaye nokelgi
       kaachiel gi Yesu. Koro wanyisou gimoro
@@ -8257,7 +8254,7 @@ nyaka chieng’.
       yueyo maber ma nyaka chieng'. Kuom
       Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       A Kristo, chiw yueyo ni jatichni ma koro ni
       kod joma ler kuma kuyo gi rem kata wich
       kuot ongee to mak mana ngima ma nyaka
@@ -8327,10 +8324,10 @@ nyaka chieng’.
       ok kamano, to dikoro asenyisou, to adhi
       mondo alosnu kar dak. Ka asedhi, mi
       alosonu kar dak, to anaduog omou, mondo
-      un bende ubi udag koda kama antie.
+      un bende ubi udag koda kama antie.<br>
       (Johana 14:2-3)
 <br><br>
-      13. GUEDHO BUR
+      13. GUEDHO BUR<br>
       <i>Jatelo</i> nyalo guedho bur ka olamo kama:
       A Ruoth Yesu Kristo, e kindeni mane ibetgo
       ei liel ne imiyo liete duto mag joma oyie
@@ -8342,7 +8339,7 @@ nyaka chieng’.
       ling' matin.
 <br><br>
       14. <i>Jatelo</i>: Ruoth ikechwa
-      <br><i>Ji duto:</i> Kristo ikechwa
+      <br><i>Ji duto:</i> Kristo ikechwa<br>
       <i>Jatelo</i>: Ruoth ikechwa
       Eka ne awinjo dwol moa e polo ,kawacho
       niya, "Ndiki ni, chakre kawuono, jogo
@@ -8369,7 +8366,7 @@ nyaka chieng’.
       kendo matho, mi olok obed machal gi ringre
       owuon man gi duong' kotiyo gi teko ma-
       miyo oketo gik moko duto e bwo lochne
-      ndalo duto nyaka chieng'.<b>Amina</b>.
+      ndalo duto nyaka chieng'.<b>Amina</b>.<br>
       <i>Jatelo</i>: Mano emomiyo gin e nyim kom
       duong' mar Nyasaye, ka gilame
       odiecheng' kod otieno e Hekalune,
@@ -8416,7 +8413,7 @@ nyaka chieng’.
       obed kodu kendo osik kodu nyaka
       chieng'.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Duong' obed ni Nyasaye manyalo
       timonwa gik moko duto
       moloyo kaka wakwayo kata kaka
@@ -8431,7 +8428,7 @@ nyaka chieng’.
       Wuoro, Wuowi, kod Roho Maler
       Obed kodu nyaka chieng'.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Kue mar Nyasaye modhiero rieko
       duto ng'eyo
       Mondo orit chunyu gi parou
@@ -8445,7 +8442,7 @@ nyaka chieng’.
       chieng'.<b>Amina</b>
 <br><br>
       Ka Padri onge to Ng'at ma otelo ni lemo
-      wacho niya:
+      wacho niya:<br>
       <i>Jatelo</i>: Ruodhwa Yesu Kristo owuon, gi Ny-
       asaye Wuonwa
       Moseherowa gi hera maduong', kendo
@@ -8454,7 +8451,7 @@ nyaka chieng’.
       geno maber, kuom
       ng'wonone mondo ojiw chunywa ken-
       do otegwa e yore duto
-      Kendo e weche duto mabeyo
+      Kendo e weche duto mabeyo<br>
       (Jo-Thesalonika 2:16-17)
       Koro ng'wono mar Ruodhwa Yesu
       Kristo, gi hera mar Nyasaye
@@ -8516,7 +8513,7 @@ nyaka chieng’.
       nikech gıma Kain pod nyalo timo ni Owadgi
       Habil. Duog chunywa gi kue mar Yesu
       Kristo ma bende nene onegi malit to ne
-      oonge ketho bang'e nene oloyo tho <br>KATA
+      oonge ketho bang'e nene oloyo tho <br>KATA<br>
       ne wan bende.
 <br><br>
       Miwa kue modhiero rieko duto ng'eyo. 
@@ -8595,7 +8592,7 @@ nyaka chieng’.
       <!--pre-->
       LAMO MAR YIK MACHIELO
 <br><br>
-      WECHE MONEGO IPAR
+      WECHE MONEGO IPAR<br>
       *Lamoni inyalo tim ni jo-Kristo modok
       chien e ngimagi mar luwo Yesu Kristo
       kata nie Joma nie kanisa to pok obatisi.
@@ -8612,11 +8609,11 @@ nyaka chieng’.
       yikie.
 <br><br>
       <h4>CHENRO MAR LEMO</h4>
-      1. WER
+      1. WER<br>
       2. <i>Jatelo</i> somo weche manok mowinjore kuom
       man mwalo kagi.
       Ruoth Nyasaye ber, kendo herane mosiko
-      ochwere. Adierane bende ok norum!
+      ochwere. Adierane bende ok norum!<br>
       (Zaburi 100:5).
 <br><br>
       Enowinj ywak joge mosejwang', kendo en
@@ -8636,7 +8633,7 @@ nyaka chieng’.
       To bende an gi rombe moko ma ok nie
       duondni. Gin bende nyaka akelgi, kendo
       giniwinj dwonda, eka rombe duto nobed
-      kueth achiel man gi jakwath achiel.
+      kueth achiel man gi jakwath achiel.<br>
       (Johana 10:16).
 <br><br>
       "Weuru nyinthindo obi ira! Kik utamgi, ni-
@@ -8648,27 +8645,27 @@ nyaka chieng’.
       maritogi neno wang' Wuora e polo ndalo
       duto. (Mathayo 18:10).
 <br><br>
-      3.WER
-      4. SOMO SIGAND NG'AT MOTHO
-      5. SOMO WACH NYASAYE.
+      3.WER<br>
+      4. SOMO SIGAND NG'AT MOTHO<br>
+      5. SOMO WACH NYASAYE.<br>
       Achiel kata ariyo kuom somo mogol e Muma
-      man mwalo kagi inyalo somo:
+      man mwalo kagi inyalo somo:<br>
       Jayalo 3:1-11; 12:1-7; Zaburi 90; 130; Jo-
       hana 10:11-16; Jorumi 8:35-39.
 <br><br>
-      6. PUONJO WACH NYASAYE
-      7. LEMO MAG KWAYo
+      6. PUONJO WACH NYASAYE<br>
+      7. LEMO MAG KWAYO<br>
       Lamo moko iyalo kawo e yik mamoko kaka
       owinjore to moko bende inyalo
       lamo kaka Roho otelo ni nga't malemo.
 <br><br>
-      8. DHI KA BUR
+      8. DHI KA BUR<br>
       <i>Jatelo</i> nyalo somo weche moko mowinjore
       manie lemo mar yik motelo kata onyalo
       nwoyo weche mantie e chakruok mar lemoni.
 <br><br>
       9. Iketo ringre ng'at mo otho e bur to bang'e
-      jalelo wacho kama
+      jalelo wacho kama<br>
       <i>Jatelo</i>: Waketo ringre Owadwa/Nyaminwa
       N.....e lowo, lowo dok kuom
       lowo kendo buru dok kuom buru.
@@ -8682,7 +8679,7 @@ nyaka chieng’.
       itimne kaka in iwuon ema idwaro e nying
       Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      10. OLO LOWO
+      10. OLO LOWO<br>
       Iolo lowo e bur ka iwero wende kata koras
       mowinjore
 <br><br>
@@ -8699,7 +8696,7 @@ nyaka chieng’.
       obed kodu kendo osik kodu nyaka
       chieng'.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Duong' obed ni Nyasaye manyalo
       timonwa gik moko duto moloyo kaka
       wakwayo kata kaka waparo kuom
@@ -8713,7 +8710,7 @@ nyaka chieng’.
       Wuoro, Wuowi, kod Roho Maler
       Obed kodu nyaka chieng'.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Kue mar Nyasaye modhiero rieko
       duto ng'eyo
       Mondo orit chunyu gi parou
@@ -8727,7 +8724,7 @@ nyaka chieng’.
       obed kodu kendo osik kodu nyaka
       chieng'.<b>Amina</b>.
       Ka Padri onge to ng'at ma otelo ni lemo
-      wacho niya
+      wacho niya<br>
       <i>Jatelo</i>: Ruodhwa Yesu Kristo owuon, gı Ny-
       asaye Wuonwa
       Moseherowa gi hera maduong, ken-
@@ -8736,7 +8733,7 @@ nyaka chieng’.
       geno maber, kuom
       Ng'wonone mondo ojiw chunywa
       kendo otegwa e yore duto
-      Kendo e weche duto mabeyo
+      Kendo e weche duto mabeyo<br>
       (Jo-Thesalonika 2:16-17)
 <br><br>
       Koro ng'wono mar Ruodhwa Yesu
@@ -8756,12 +8753,12 @@ nyaka chieng’.
       LAMO MAR YIKO NG'AT
       MODERE
 <br><br>
-      WECHE MONEGO IPAR
-      *Lamoni itimo e bath bur.
+      WECHE MONEGO IPAR<br>
+      *Lamoni itimo e bath bur.<br>
       *Ng'ama otelo ni lemo ok onego rwak lepe
       mag tich.
 <br><br>
-      <h4>CHENRO MAR LEMO</h4>
+      <h4>CHENRO MAR LEMO</h4><br>
       Padre kata Ng'at motelo ni lemo somo weche
       mogol e muma mondik piny kagi.
 <br><br>
@@ -8783,7 +8780,7 @@ nyaka chieng’.
       mosedhi nyaka e nyım Nyasaye. En Yesu wuod
       Nyasaye. Wan-gi Jadolo Maduong' manyalo
       kecho nyawowa nikech noteme e yore duto ma
-      wan bende itemowae, to ne ok otimo richo
+      wan bende itemowae, to ne ok otimo richo<br>
       (Johibrania 4:14-16)
 <br><br>
       Pile idiyowa koni gi koni to kata kamano ok
@@ -8791,15 +8788,15 @@ nyaka chieng’.
       Isandowa, to ok jwang'wa, bende igoyowa
       piny, to ok negwa. (11 Jokorintho 4:8-9)
 <br><br>
-      2. WER
-      3. Somo sigand ngima ng'at modere
-      4. SOMO WACH NYASAYE
+      2. WER<br>
+      3. Somo sigand ngima ng'at modere<br>
+      4. SOMO WACH NYASAYE<br>
       Somo mokwongo: Ayub 3:1-26 kata Jeremia
-      20:15-18, kata Ywagruok 3:19-26.
+      20:15-18, kata Ywagruok 3:19-26.<br>
       Somo mar ariyo: Luka 12:22-34 kata 2
-      Jokorintho 1:8-9
-      5. PUONJO WACH NYASAYE (YALO)
-      6. LEMO MAG KWAYO
+<br>      Jokorintho 1:8-9
+<br>      5. PUONJO WACH NYASAYE (YALO)<br>
+      6. LEMO MAG KWAYO<br>
       Inyalo kwayo ji manok mondo olam ni joode
       kata anyuolane. lamogi ikiko gi wende moko
       maduogo chuny, bang'e padre kata <i>Jatelo</i>
@@ -8843,7 +8840,7 @@ nyaka chieng’.
       Yesu Kristo mane othonwa kendo oting'o
       rem-wa.<b>Amina</b>.
 <br><br>
-      DHI KA LIEL
+      DHI KA LIEL<br>
       Padre somo weche mogol e Muma kaka
       ondiki pinyka, kotelo niji kagi dhi kar liel.
       Joma oting'o sanduk kod jimamoko duto
@@ -8860,12 +8857,12 @@ nyaka chieng’.
       herane mosiko. Ok osik kodhawonwa kinde
       duto kendo ok osik kokecho bende ok
       okumwa maromore gi richowa, kata chu-
-      lonwa kuor maromo gi timbewa mamono.
+      lonwa kuor maromo gi timbewa mamono.<br>
       (Zaburi 103:8-10)
 <br><br>
       Hera mosiko mar Ruoth Nyasaye ochwere
       kendo ng'wonone ok rum. Gi nyien pile.
-      okinyi kokinyi. Chutho adiera mare duong'
+      okinyi kokinyi. Chutho adiera mare duong'<br>
       (Yuagruok 3:22-23)
 <br><br>
       Wachno kik buogu nikech ndalo biro ma
@@ -8874,7 +8871,7 @@ nyaka chieng’.
       Joma timbegi beyo nochier miyud ngıma,to
       joma timbegi richo nochier e bura.
 <br><br>
-      9. EBATH BUR
+      9. EBATH BUR<br>
       Iloro sanduk e bur ka <i>Jatelo</i> wacho niya:
       Guedhka A Ruodhwa kama koro wayikoe
       ringre..N...oyuee. To nikech mana in kendi
@@ -8884,7 +8881,7 @@ nyaka chieng’.
       ringruok], lowo kuom lowo, buru kuom buru.
       Iyiko ng'at motho.
 <br><br>
-      10. GUETH MOGIK
+      10. GUETH MOGIK<br>
       Wapakuru jal manyalo ritou mondo kik
       upodhi kendo manyalo miyo uchung' e
       nyim duong'ne maler kumor kendo ka
@@ -8906,7 +8903,7 @@ nyaka chieng’.
       wan-go kuom Roho Maler, obed kodu ken-
       do osik kodu nyaka chieng'.<b>Amina</b>.
       2 Jothesalonika 2:16-17
-      
+<br>      
       <!--/pre-->
   """
   ],
@@ -8914,9 +8911,9 @@ nyaka chieng’.
     "Rwako jopuonj Kanisa",
     """
       <!--pre-->
-      RWAKO JOPUONJ KANISA
-      (LEI RIDA)
-      WECHE MONEGO IPAR
+      RWAKO JOPUONJ KANISA<br>
+      (LEI RIDA)<br>
+      WECHE MONEGO IPAR<br>
       *Lamoni inyalo timo e kinde mar lemo
       mar Sawo Maler mar Ruoth, kata e Lamo
       mar Oknyi, kata e mar Odhiambo.
@@ -8928,10 +8925,10 @@ nyaka chieng’.
       ochak lemo.
 <br><br>
       <h4>CHENRO MAR LEMO</h4>
-      1. WER
-      2. KELO JOMA IDWARO RWAKO IR BISHOP
+      1. WER<br>
+      2. KELO JOMA IDWARO RWAKO IR BISHOP<br>
       Jogo ma idwaro rwako chung' e nyim Bishop,
-      kaka gia e parishes. Jogo ma okelogi, to moloyo
+      kaka gia e parishes. Jogo ma okelogi, to moloyo<br>
       <i>Jatelo</i> mar TEE kod achiel kuom jopuonj
       machon chung' e dirgi kendo wacho kama:
       Wuonwa ma waluoro e tich
@@ -8964,7 +8961,7 @@ nyaka chieng’.
       Bishop: Bende ubiro konyogi e tijgi?
       <br><i>Ji duto:</i> Ee, wana konygi.
 <br><br>
-      3. WECHE MAG JIP
+      3. WECHE MAG JIP<br>
       Bishop wacho wechegı:
       Kaka Japuonj Kanisa, oluongi mondo iti e
       kanisa ka ikonyo Padri e somo Wach Nyasaye
@@ -8999,7 +8996,7 @@ nyaka chieng’.
       asaye okonya</b>.
 <br><br>
       Bishop: Bende initem chopo luong maduong'
-      mar yalo injili mar Yesu Kristo <br>KATA
+      mar yalo injili mar Yesu Kristo <br>KATA<br>
       ka piny ber kata ka piny rach?
       <br><i>Dwoko:</i><b> Mano e gombona maduong</b>'.
 <br><br>
@@ -9009,7 +9006,7 @@ nyaka chieng’.
       <br><i>Dwoko:</i><b> Ee, abiro timo kamano ka Nyasaye
       okonya</b>.
 <br><br>
-      5. RUAKO JOPUONJ
+      5. RUAKO JOPUONJ<br>
       Moro kamoro goyo chonge piny enyim Bish-
       op. Bishop bang'e mose kendo miye barup
       tich ka wacho kama:
@@ -9045,8 +9042,8 @@ nyaka chieng’.
       6. Bang' ma to koro ji nyalo moso joma or-
       waki manyien ka iwero wer moro mar mor,
       Bang'e to lemo dhi nyime mar Sawo Maler
-      mar Ruoth ka ichako kar Lamo ni kanisa
-      (migawo nmar 12).
+      mar Ruoth ka ichako kar Lamo ni kanisa<br>
+      (migawo mar 12).
       
       <!--/pre-->
   """
@@ -9055,8 +9052,7 @@ nyaka chieng’.
     "Lamo mar pwodho gik lemo ma ogak",
     """
       <!--pre-->
-      LAMO MAR PWODHO GIK
-      LEMO MA OGAK
+     
       WECHE MONEGO IPAR
 <br><br>
       *Lamoni itiyogo kuom pwodho kuonde
@@ -9082,7 +9078,7 @@ nyaka chieng’.
       lemo mamoko monego tim kanyo.
 <br><br>
       <h4>CHENRO MAR LEMO</h4>
-      1. WER
+      1. WER<br>
       2. Bishop:Owetewa gi nyiminewa kuom
       Ruoth,wachokore kaeri kawuono mondo
       wapuodh gigo ma jachien osedwanyo kendo
@@ -9108,11 +9104,11 @@ nyaka chieng’.
 <br><br>
       Lwokreuru mondo ubed maler, bende go-
       luru timbeu mamono oko e wang'a, kendo
-      uwe timo richo to utim mana gik mabeyo.
+      uwe timo richo to utim mana gik mabeyo.<br>
       (Isaya 1:16b-17a)
 <br><br>
       Waidhuru god Ruoth Nyasaye.
-      Enopuonjwa yore, kendo wanaluwgi.
+      Enopuonjwa yore, kendo wanaluwgi.<br>
       (Isaya 2:3).
 <br><br>
       Ng'at ma abiro konyo en ng'at mamuol, ma
@@ -9121,7 +9117,7 @@ nyaka chieng’.
 <br><br>
       Abiro dhi ka wuora, mi awachne ni,
       "Wuora, asekethoe nyim Nyasaye, kendo e nyimi. Ok
-      awinjora koro mondo iluonga ni wuodi."
+      awinjora koro mondo iluonga ni wuodi."<br>
       (Luka 15:18, 19a).
 <br><br>
       4. HULO RICHO
@@ -9142,7 +9138,7 @@ nyaka chieng’.
       ochier mondo wayud ngima mo-
       chewere.<b>Amina</b>.
 <br><br>
-      5. HULO NI RICHOWA OWENWA
+      5. HULO NI RICHOWA OWENWA<br>
       Bishop: Nyasaye ma Wuon Ruodhwa Yesu
       Kristo mor kendo rwako ng'at molo-
       kore oweyo richone. Joma otho bedo
@@ -9152,8 +9148,8 @@ nyaka chieng’.
       Nyasaye ndalo duto nyaka chieng'.
      <b>Amina</b>.
 <br><br>
-      6. GUEDHO PI
-      Bishop guedho pi kawacho kama:
+      6. GUEDHO PI<br>
+      Bishop guedho pi kawacho kama:<br>
       A Ruoth Nyasaye, guedh pigni ma wadwaro
       tiyogo kaka ranyisi mar luoko kendo
       pwodho od lemoni, kaachiel kod gik moko
@@ -9166,7 +9162,7 @@ nyaka chieng’.
 <br><br>
       Nga't ma oyier ting'o pi mowal ka Bishop
       kiro pi gi owino/okinga ka isomo Zaburi 51
-      mos mos ka iluoro oko mar Kanisa. Bang'e
+<br>      mos mos ka iluoro oko mar Kanisa. Bang'e
       Bishop telo ni ji ka donjo ei kanisa ka iwero
       wer mowinjore.
       Ji duto chung' ka Zaburi man mwalo kani
@@ -9202,22 +9198,22 @@ nyaka chieng’.
       bet kawuono kendo kaka biro bet
       nyaka chieng'.<b>Amina</b>.
 <br><br>
-      8. Wend koras mag lemo.
+      8. Wend koras mag lemo.<br>
       9. Koro Bishop pwodho gimoro amoro
-      mogak gi pi mowal kowacho kama:
+      mogak gi pi mowal kowacho kama:<br>
       Ahulo ni (nying gima ogakno) ni koro osep-
       wodhi mondo otigo tich mane owalne.
       <br><i>Ji duto:</i> <b> Nyasaye erokamano</b>.
 <br><br>
       10.Ka gik moko duto mogak osepwodhi to Bish-
-      op wacho kama:
+      op wacho kama:<br>
       Ahulo ni odni duto kaachiel kod gik lemo
       duto ma yande ogak e iye, koro osepwodhi
       mondo otigo tije mane owalnigi
       <br><i>Ji duto:</i> Allelluya, Nyasaye erokamano.
 <br><br>
       11.Ji duto chung' kendo Bishop telo ni ji e goyo
-      erokamao ni Nyasaye.
+      erokamano ni Nyasaye.
       Bishop: Gouru erokamano ni Nyasaye nikech
       ober:
       <br><i>Ji duto:</i> <b> Herane mosiko ochwere</b>.
@@ -9282,9 +9278,9 @@ nyaka chieng’.
       ler mar Wuodi Yesu Kristo, mane of-
       Wenyorenwa isepwodho piny motimo richoni.
       Wasayi mondo isiki kibedonwa ohinga mote-
-      gno mageng'onwa wasikwa. Yie mondo
+      gno mageng'onwa wasikwa. Yie mondo<br>
       (Kanisani... .) kod gimoro amora manie
-      iye mane osedwany gi chilo gi tich Satan <br>KATA
+      iye mane osedwany gi chilo gi tich Satan <br>KATA<br>
       kuom tim dhano, mondo olwoki kendo opwo-
       dhi gi ng'wononi mosiko mondo gik moko
       duto omi Nyingi Maler Duong', Kuom Yesu
@@ -9303,10 +9299,9 @@ nyaka chieng’.
     "Rwako jo-Kristo moa e Kanise mamoko",
     """
       <!--pre-->
-      RWAKO JO-KRISTO MOA E
-      KANISE MAMOKO
+      
 <br><br>
-      GIK MONEGO IPAR:
+      GIK MONEGO IPAR:<br>
       *Lamoni olosni ji madwaro bedo jokanyo
       mar kanisa mar Anglikan ma Kenya. Ka-
       pok orwak ng'ato, to padri kaachiel gi
@@ -9389,7 +9384,7 @@ nyaka chieng’.
       <br><i>Ji duto:</i> <b> Enying Kristo</b>.<b>Amina</b>.
 <br><br>
       Jogo morwaki duto goyo chonggi piny kendo
-      padri lamo kama:
+      padri lamo kama:<br>
       3. A Nyasaye ma wuonwa mane ooro Wuode
       achiel kende Yesu Kristo mondo othonwa
       kendo oduokwa iri, wagoyoni erokamano
@@ -9409,7 +9404,7 @@ nyaka chieng’.
       mwalokagi kata nyalo wero wer moro ma
       OWinjore ( koras)
 <br><br>
-      4. Waruakou e lalruokwa
+      4. Waruakou e lalruokwa<br>
       Waduto wan e achiel mar Ringre Kristo
       Wan nyithind Wuoro achiel manie polo
       Wan jocham gikeni kaachiel mar piny
@@ -9425,11 +9420,9 @@ nyaka chieng’.
     "Rwako Jo-Kristo mane oa to koro duogo kendo e Kanisa mar Aglikan",
     """
       <!--pre-->
-      RWAKO JOKRISTO MANE OA
-      TO KORO DUOGO KENDO E
-      KANISA MAR ANGLIKAN
+     
 <br><br>
-      WECHE MONEGO IPAR:
+      WECHE MONEGO IPAR:<br>
       * Lamoni itimo ekinde mar lemo mar Sawo
       Maler mar Ruoth, kapok otim lemo mar
       hulo richo.
@@ -9458,7 +9451,7 @@ nyaka chieng’.
       mamokogo.
 <br><br>
       <h4>CHENRO MAR LEMO</h4>
-      WER.
+      WER.<br>
       E kinde ma ji wer to jogo maibiro rwako kendo
       sudo nyine kendo chung' e yim padri
 <br><br>
@@ -9488,13 +9481,13 @@ nyaka chieng’.
       Kendo e kanisa mar Anglikan?
       <br><i>Dwoko:</i><b> Ee adwaro</b>.
 <br><br>
-      Padri penjo chokruok.
+      Padri penjo chokruok.<br>
       5. <br><i>Padri</i>: Jonyasaye, bende en dwaro maru
       mondo jowadwagi orwak kendo e
       lalruok mar kanisawani?
       <br><i>Dwoko:</i><b> Ee wadwaro</b>.
 <br><br>
-      Padri somo wechegi (Joefeso 4:11-16:)
+      Padri somo wechegi (Joefeso 4:11-16:)<br>
       6. En ema ne opogo mich ni ji, koyiero ji mo-
       ko mondo obed joote, to moko johul wach
       moa kuom Nyasaye, kendo moko joland
@@ -9538,7 +9531,7 @@ nyaka chieng’.
       e nying Yesu Kristo.<b>Amina</b>.
 <br><br>
 <br>
-      LAMO NI ACHIEL MAR KANISA.
+      LAMO NI ACHIEL MAR KANISA.<br>
       Nyasaye Manyalo Gik Moko Duto Wuonwa
       manie polo mane ohero kanisa kendo
       Ochiworene kuom wuode Yesu Kristo. Madi
@@ -9568,7 +9561,7 @@ nyaka chieng’.
       Joma dongo kendo manejosawo lemogi dhi
       nyime kochakore e lemo mar kwayo werruok.
       Wend Mor Zaburi 100
-      
+<br>      
       <!--/pre-->
   """
   ],
@@ -9576,9 +9569,8 @@ nyaka chieng’.
     "Lemo mar lokruok a e richo",
     """
       <!--pre-->
-      LEMO MAR LOKRUOK A E RICHO
 <br><br>
-      WECHE MONEGO IPAR
+      WECHE MONEGO IPAR<br>
       *Lamoni ikwayogo ni ja-kristo moseketho
       kendo oweyo lalruok kod kanisane nikech
       richo ma osetimo.
@@ -9632,10 +9624,10 @@ nyaka chieng’.
       Ayie ni timbena mono,
       Kendo lwokgi duto.
       Golna richona, eka abed maler
-      Kendo lwoka mondo abed matar moloy pe
+      Kendo lwoka mondo abed matar moloy pe<br>
       (Zaburi 51)
 <br><br>
-      KoD/<br>KATA
+      KOD/<br>KATA<br>
       Nyasaye Manyalo Gik Moko Duto kendo
       wuoro ma herane ochwere;
       Asudo e nyım kom duong'ni ka akwayi
@@ -9666,10 +9658,10 @@ nyaka chieng’.
       wacho kama:
       Elo jo-Kristogi arwaki e lalruokwa.
 <br><br>
-      5. kindeni inyal wer ka jo-Kristo mose.
+      5. kindeni inyal wer ka jo-Kristo mose.<br>
       6. Bang' ma lamo mar pogo Sawo Maler dhi
       nyime e namba 13
-      
+<br>      
       <!--/pre-->
   """
   ],
@@ -9679,7 +9671,7 @@ nyaka chieng’.
       <!--pre-->
       LAMO MAR LIMO JOTUO
 <br><br>
-      WECHE MONEGO IPAR
+      WECHE MONEGO IPAR<br>
       *Lamo ni inyalo tim e dala kata e od thieth
       kaka owinjore
 <br><br>
@@ -9690,7 +9682,7 @@ nyaka chieng’.
       tuo kata joodgi; bende jadolo nyalo time
       kaka kit tije kaka ja kwath.
 <br><br>
-      *Bende oyie ni inyalo keto lwedo <br>KATA
+      *Bende oyie ni inyalo keto lwedo <br>KATA<br>
       wiro mo e wi jatuo.
 <br><br>
       *Wiro mo en ranyisi mar sakramit mar chang;
@@ -9717,13 +9709,13 @@ nyaka chieng’.
       ung'ado aore, to ok gini teru, bende kata ka
       uwuotho e mach mang'ang'ni to ok unuwang',
       nimar an e Ruoth Nyasaye ma Nyasachu, ma
-      Ng'ama Ler mar Israel kendo ma jaresu.
+      Ng'ama Ler mar Israel kendo ma jaresu.<br>
       (Isaya 43:1b-3a)
 <br><br>
       Nyasaye e kar konyruokwa, kendo e tekowa.
       En e jakonywa e kinde mag chandruok, kuom
       mano, ok wana luor kata piny yiengni, kendo
-      gode mukore, mi lwar e kude mag nam, <br>KATA
+      gode mukore, mi lwar e kude mag nam, <br>KATA<br>
       ka nembe wuo, kendo tagore, kendo gode tetni
       nikech gingruok mar apaka. ( Zaburi 46:1-3)
 <br><br>
@@ -9786,7 +9778,7 @@ nyaka chieng’.
       Ka achiew, to chunya nopong' gi ilo, nikech
       ananwang' ka in koda. (Zaburi 17:15)
 <br><br>
-      5. SECHE MAG LIMBE (PASTOROLIA)
+      5. SECHE MAG LIMBE (PASTOROLIA)<br>
       Jadolo nyalo chiwo twak matin mar hocho kae
       to oweyo thuolo mondo owinjgo wach madhi
       nyime. Eseche makama jatuo kaachiel gi
@@ -9811,7 +9803,6 @@ nyaka chieng’.
       ne, mondo ong'i nyıme ka en gi geno gi
       chir.Kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-<br>
       Ka en masira mar ndara Ruoth mi mondo
       jogo mariembo e nderni-wa obed gi luoro mar
       ngima dhano mondo giriemb gi dembruok,
@@ -9829,7 +9820,7 @@ nyaka chieng’.
       Ruodhwa.<b>Amina</b>.
 <br><br>
 <br>
-      7. NE NYATHI
+      7. NE NYATHI<br>
       Yesu mohero nyithindo, mane ochikowa
       mondo kik wa bwon nyithindo matindo ni-
       kech malaike mag polo nikodgi kinde duto,
@@ -9840,7 +9831,7 @@ nyaka chieng’.
       kwayowa Ruoth. Kuom Yesu Kristo Ruodhwä.
      <b>Amina</b>.
 <br><br>
-      8. NG'AMA OHINGORE
+      8. NG'AMA OHINGORE<br>
       Rang jatichni ni ..N.. kendo miye kue mo-
       dhiero rieko duto ng'eyo ka okadho ka
       machalo gi hoho mar tipo tho. Kata obedo
@@ -9872,7 +9863,7 @@ nyaka chieng’.
       nolo chuth. Erokamano Ruoth kuom loyonwa
       tho e musalaba.<b>Amina</b> kendo<b>Amina</b>.
 <br><br>
-      9. BANG'E KA CHUNY NG'ATO OSECHOT
+      9. BANG'E KA CHUNY NG'ATO OSECHOT<br>
       Nyasaye Manyaka Chieng', in e chakruok
       kendo giko mar ngimawa. Ne ichueyo...N....
       Kendo ikele e ngimani; koro esa mowijore
@@ -9885,8 +9876,7 @@ nyaka chieng’.
       kogeno kuomi. Kuom Yesu Kristo jabuchwa,
      <b>Amina</b>.
 <br><br>
-<br>
-      10. BANG' THO NYATHI
+      10. BANG' THO NYATHI<br>
       Ruoth Yesu kristo, ne ibedo nyathi Bethle-
       hem; wachiwoni nyathini, telne e kuonde
       duto mag polo ma jogo mayueyo kuomi
@@ -9895,7 +9885,7 @@ nyaka chieng’.
       Wuoro kod Roho Maler. Nyasaye Achiel, ma
       nyaka chieng'.<b>Amina</b>.
 <br><br>
-      11. NE JOGO MANIE ARITA
+      11. NE JOGO MANIE ARITA<br>
       Nyasaye mar otieno mandiwa, ne in gi Yesu
       kolemo Gethsemane, ne in kode nyaka e mu-
       salaba kendo e chier, Konywa mondo wang'eyi
@@ -9905,7 +9895,7 @@ nyaka chieng’.
       mondo wapar ni in jakechwa, Kendo kuomi e
       ma kue marwa nitie.<b>Amina</b>.
 <br><br>
-      12. KAPOK OTIM YENG'O (OPARESON)
+      12. KAPOK OTIM YENG'O (OPARESON)<br>
       Wuoro ma ja hera, rang..N.. kendo miye
       chuny mogonyore ka odhi e yeng'o ( opar
       son). Golne luoro gi buok duto ka ikonye ke-
@@ -9916,8 +9906,7 @@ nyaka chieng’.
       oyud duong' kendo ne ngima mar ..N. E nyıng
       Yesu wakwayo.<b>Amina</b>.
 <br><br>
-<br>
-      13. NE NG'AT MAN GI KIHONDKO
+      13. NE NG'AT MAN GI KIHONDKO<br>
       A Nyasaye manyalo Gik Moko Duto, rang
       jatichni e kinde ma en gi kihondkoni. Mi oket
       chunye kuomi kimiye kue mar chuny. Onego
@@ -9925,7 +9914,7 @@ nyaka chieng’.
       duto. E nying Yesu wakwayo.<b>Amina</b>.
 <br><br>
       14. NE JAL MAN GI CHANDRUOK KA-
-      LUWORE GI RICHO MANE OTIMO
+      LUWORE GI RICHO MANE OTIMO<br>
       Ruoth in e ma ing'eyo chunywa matut, jayalnwa
       bura makare ka luwore gi gima ae chunywa.
       Ireso, ichango kendo iweyo ne jogo ma olokore
@@ -9934,32 +9923,32 @@ nyaka chieng’.
       Roho ni Maler ka mede teko, hoch kod
       kony.Enying Yesu wakwayo.<b>Amina</b>.
 <br><br>
-      15. WIRO GI MO KENDO KETO LWEDO
+      15. WIRO GI MO KENDO KETO LWEDO<br>
       Padri gi jokonyne keto lwetgi kuom ng'ato ka
       ng'ato ka gigoyo chonggi piny ( kapo ni gi nyalo)
 <br><br>
-      Padri lamo kama:
+      Padri lamo kama:<br>
       E nying Yesu Kristo mane Osand nikech wan,
       mane otho kendo ochier, chang kuom tuocheni
       duto mag ringruok, paro kod chuny.<b>Amina</b>.
 <br><br>
-      16. Padri nyalo wiro mo koro e lela wang'e
+      16. Padri nyalo wiro mo koro e lela wang'e<br>
       (kata pat wiye). Ka mo ne pok oguedhi, to
-      onyalo guedhe kowacho wechegi:
+      onyalo guedhe kowacho wechegi:<br>
       Guedh moni Ruoth ma jatichni dwa tiyogo
       kuom wiro jogi. E nying Wuoro, Wuowi, gi
       Roho Maler.<b>Amina</b>.
 <br><br>
       17. Oketo lith lwete e mo kendo owiro e pat
       wiye ka oketo kido mar musalaba ka
-      Owacho niya:
+      Owacho niya:<br>
       Awiri gi mo malerni. Yie Kristo mondo oweni
       kendo ochangi. Teko mar jawar ma ne osand
       nikech in, mondo omol e pachi gi dendi ka-
       miyi kue gi teko.<b>Amina</b>.
 <br><br>
       18. Ka onge sawo e lemoni, to jadolo biro
-      wacho lemo mogikni:
+      wacho lemo mogikni:<br>
       Wa wiri gi mo e nyıng jalo mane owir, ma
       kuom sand mare ne ochangu, kendo osechangu
       mana nikech chwat mane ochwadego. (1 Pt.
@@ -9978,8 +9967,7 @@ nyaka chieng’.
     "LAMO MAR CHANG",
     """
       <!--pre-->
-      LAMO MAR CHANG
-      WECHE MONEGO IPAR
+      WECHE MONEGO IPAR<br>
       *Lamoni ilamo ei kanisa, to en lamo mo-
       chung' kende. To bende inyalo time
       kinde mag lamo mar okiny kata lamo
@@ -10011,7 +9999,7 @@ nyaka chieng’.
       kendo hulo richo.
 <br><br>
       <h4>CHENRO MAR LEMO</h4>
-      1.WER
+      1.WER<br>
       2. <br><i>Padri</i>: Owete gi nyimine, wasebiro kaachiel
       mondo walam Nyasaye makinde
       duto rieyo bade mondo oguedhwa
@@ -10042,7 +10030,7 @@ nyaka chieng’.
       man mwalogi kata moro amora ma owinyore
 <br><br>
       Somo mokwongo: Isaya 52:13-53:5
-      Wer mar chuny (koras) kata mogol e kitap
+<br>      Wer mar chuny (koras) kata mogol e kitap
       wende Luo inyalo wer.
 <br><br>
       Ji goyo chonggi piny kata gibet kagidembore.
@@ -10133,7 +10121,7 @@ nyaka chieng’.
       GOLO CHIWO NI TICH NYASAYE
       Wer ma owinjore (kaka no.82,185 e wende
       Luo) inyalo wer. Ekındeni joma onego lem
-      nigi sudo nyime kendo chung' kata bet, <br>KATA
+      nigi sudo nyime kendo chung' kata bet, <br>KATA<br>
       goyo chonggi enyim padri, owirogi gi mo
       ka oketo lwete kuom moro ka moro kendo
       oguedhogi. Bende nying joma nigi chan-
@@ -10160,7 +10148,7 @@ nyaka chieng’.
       Wakeloni, A Ruoth, jogo ma
       ohinyore e masiche mopogore opo-
       gore; Wakeloni, A Ruoth, joma ok
-      ne hera kata maonge osiepe <br>KATA
+      ne hera kata maonge osiepe <br>KATA<br>
       mong'ichno
       Wakeloni, A Ruoth jogo man gi
       chandruOk mang'eny ma opogore
@@ -10169,7 +10157,7 @@ nyaka chieng’.
       uo ma ok waluongo nyinggi to
       dwaro mondo ichanggi.
 <br><br>
-      Padri pod nyalo konyore gilemo moro <br>KATA
+      Padri pod nyalo konyore gilemo moro <br>KATA<br>
       mondik mwalo kani.<br>
       <i>Padri</i>: Nyasaye Wuoro, Nyasaye Wuowi,
       Nyasaye Roho Maler,
@@ -10209,10 +10197,9 @@ nyaka chieng’.
       chieng' Yesu Kristo Ruodhwa ken-
       do Jawarwa.<b>Amina</b>.
 <br><br>
-<br>
-      16.WIRO GI MO KEND0 YIEYO LWEDO
+      16.WIRO GI MO KEND0 YIEYO LWEDO<br>
       Padri kod jogo makonye yieyo lwetgi kuom
-      ng'ato ka gi goyo chonggi kata gichung' <br>KATA
+      ng'ato ka gi goyo chonggi kata gichung' <br>KATA<br>
       gibet e nyim Mesa mar Sawo Maler mar Ruoth;
       kata kama chielo mowinjore. Bang'e padri
       lemo kama:
@@ -10234,7 +10221,7 @@ nyaka chieng’.
       kendo e ringri duto, komiyi kue kod
       teko mar chung'.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Awiri gi morni e nying Kristo mane
       owir; Kristo mondo ochangi, owe
       richoni, kendo omiyi kue. Bende
@@ -10244,7 +10231,6 @@ nyaka chieng’.
       Yesu Kristo ma en jachang madu-
       ong' kendo jawar.<b>Amina</b>.
 <br><br>
-<br>
       19.WER
       Bang' wer to idhi nyime gi lamo mar pogo
       sawo Maler mar Ruoth kichako gi mos mar kue.
@@ -10274,8 +10260,8 @@ nyaka chieng’.
       maler kawawero Aleluya, Aleluya,
       Aleluya, Aleluya.
 <br><br>
-      21. GUETH MOGIK
-      22. WER MAR WUOK
+      21. GUETH MOGIK<br>
+      22. WER MAR WUOK<br>
       
       <!--/pre-->
   """
@@ -10284,8 +10270,7 @@ nyaka chieng’.
     "LEMO MAG NDALO MOYIEDHI",
     """
       <!--pre-->
-      LEMO MAG NDALO MOYIEDHI
-      WECHE MONEGO IPAR
+      WECHE MONEGO IPAR<br>
       *Wasetemo kaka wanyalo mondo wandik
       lemo manyien mag ndalo (moyiedhi], ka ok
       wariwoe lamo ma bang' Sawo Maler mar
@@ -10296,11 +10281,11 @@ nyaka chieng’.
       yruokgo e Kanisa mar Anglikan ma Kenya e
       ma wagolo oko.
 <br><br>
-      NDALO MOYIEDHI
+      NDALO MOYIEDHI<br>
       Chieng' miparoe kaka ne omi Yesu Kristo
       nying' kendo otere nyange. (Jan. 1)
 <br><br>
-      LAMO
+      LAMO<br>
       A Nyasaye Manyalo Gik Moko Duto,
       nimiyo wuodi mipako oter nyange kaluwore
       gi chik Musa nikech resruok mar dhano.
@@ -10320,17 +10305,17 @@ nyaka chieng’.
       wadag kuom teko mar nyinge moloyo
       nying' duto, Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Juma mar lemo ni riwruok mar jo-Kristo
-      (Jan 18-25)
-      LAMO
+      Juma mar lemo ni riwruok mar jo-Kristo<br>
+      (Jan 18-25)<br>
+      LAMO<br>
       A Ruoth Nyasaye, mi kanisani obed many-
       ien, to ichak koda, chang pinywa kendo
       thiedh adhondewa, timwa wabed achiel,
       bende konyri kodwa e tichni. Kuom Yesu
       Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Lokruok mar Paulo maler. ( Jan 25)
-      LAMO
+      Lokruok mar Paulo maler. ( Jan 25)<br>
+      LAMO<br>
       A Nyasaye Manyalo Gik Moko Duto, ne
       imiyo ler mar injili orieny e piny ngima
       kane Paulo jaoteni maler olande kuonde
@@ -10342,8 +10327,8 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
       Lamo milamo bang' Sawo Maler chieng'
-      Joote kod joland wach maber.
-      LAMO
+      Joote kod joland wach maber.<br>
+      LAMO<br>
       A Nyasaye Manyalo Gik Moko Duto, ne
       ioro Roho mari Maler ni joote chieng' pen-
       tekosti, mamor kayamo makudho matek
@@ -10354,8 +10339,8 @@ nyaka chieng’.
       do wayuaji duto obi e heranı .kuom Yesu
       Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      <br>KATA
-      LAMO
+      <br>KATA<br>
+      LAMO<br>
       Ruoth Nyasachwa in e chakruok mar
       adiera
       kod hera, mi waluw gi chunywa duto puonj
@@ -10366,7 +10351,7 @@ nyaka chieng’.
       bende ni chieng' michiwoe Yesu ni
       Nyasaye e Hekalu.
 <br><br>
-      LAMO
+      LAMO<br>
       A Nyasaye Manyalo Gik Moko Duto, kendo
       mochwere, wakwayi ni, kaka ne ochiwni
       wuodi ma miderma e hekalu, ka nigi ringru-
@@ -10374,7 +10359,7 @@ nyaka chieng’.
       wachiwreni ka chunywa ler chutho; kuom
       Yesu kristo ruodhwa.<b>Amina</b>. (Feb.2)
 <br><br>
-      Josef ma ja Nazareth (Mar. 19)
+      Josef ma ja Nazareth (Mar. 19)<br>
       A Nyasaye wuonwa, in e mane imiyo onyuol
       Josef ma japa bao e anyuola mar Daudi jatichni
       mondo obed jarit Wuodi mane odoko dhano,
@@ -10386,8 +10371,8 @@ nyaka chieng’.
       kawuono kendo nyaka chieng'.<b>Amina</b>
 <br><br>
 <br>
-      Bang' Sawo Maler
-      LAMO
+      Bang' Sawo Maler<br>
+      LAMO<br>
       Wuonwa manie e polo, wuodi Yesu Kristo
       nodongo ka riekone medore ahinya ka ji
       mor kode e dala Josef ja pa bau Nazareth,
@@ -10398,8 +10383,8 @@ nyaka chieng’.
       Kuom Yesu Kristo ruodhwa.<b>Amina</b>.
 <br><br>
       Chieng' mane ofulne maria Nyako Maler
-      wach nyuol Yesu (Mach 25)
-      LAMO
+      wach nyuol Yesu (Mach 25)<br>
+      LAMO<br>
       A Ruoth, wasayi mondo iol ng'wononi e
       Chunywa mondo kaka waseng'eyo wuodi
       Yesus Kristo nodoko dhano, kaluwore gi
@@ -10410,8 +10395,8 @@ nyaka chieng’.
       achiel mar Roho maler, Nyasaye achiel
       kawuono kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
-      Bang' Sawo Maler
-      LAMO
+      Bang' Sawo Maler<br>
+      LAMO<br>
       Nyasaye man malo chutho, jatichni Maria
       nonyuolo Wach mane odoko dhano, wa-
       goyoni erokaman0 ni e Sawo Maler mar
@@ -10421,7 +10406,7 @@ nyaka chieng’.
       dwaroni gi mor mondo wanyag olemo mar
       ler, kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Chieng' Mariko Maler (April 25)
+      Chieng' Mariko Maler (April 25)<br>
       A Nyasaye Manyalo Gik Moko Duto,
       Ipuonjo kanisa mari gi puonj mayudore ei
       injili ma Mariko Maler ondiko. Wakwayo
@@ -10433,16 +10418,16 @@ nyaka chieng’.
       achiel kawuono kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
 <br>
-      Lamo bang' Sawo Maler
-      LAMO
+      Lamo bang' Sawo Maler<br>
+      LAMO<br>
       Achiel kuom lamo milamo bang' Sawo
       Maler mar chieng' joote kod joland injili
       inyalo konyruokgo kaka chieng' Paulo
       maler (Januar 25)
 <br><br>
 <br>
-      Chieng' Filipo maler kod Jakobo maler.
-      LAMO
+      Chieng' Filipo maler kod Jakobo maler.<br>
+      LAMO<br>
       A Nyasaye wuonwa Manyalo Gik Moko
       Duto, ka wang'eyi gi adiera to wayudo ngi-
       ma manyaka chieng'. Puonjwa mondo
@@ -10455,12 +10440,12 @@ nyaka chieng’.
       Roho maler, Nyasaye achiel kawuono ken-
       do nyaka chieng'.<b>Amina</b>.
 <br><br>
-      Bang' lamo mar Sawo Maler
+      Bang' lamo mar Sawo Maler<br><br>
       Achiel kuom lamo milamo bang' Sawo Maler
       mar chieng' joote kod joland injili inyalo
       konyruokgo kaka chieng' Paulo maler (Januar 25)
 <br><br>
-      Chieng' Mathia Maler (Mei 14)
+      Chieng' Mathia Maler (Mei 14)<br><br>
       A Nyasaye manyalo Gik Moko Duto ne
       iyiero Mathia jatichni mondo obed achiel
       Kuom joote Apar gariyo kar Judas ma ja-
@@ -10474,16 +10459,16 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
 <br>
-      Bang' lamo mar sawo maler
+      Bang' lamo mar sawo maler<br>
       Achiel kuom lamo nilamo bang' Sawo Maler
       mar chieng' joote kod joland injili inyalo
-      konyruokgo kaka chieng' Paulo maler
+      konyruokgo kaka chieng' Paulo maler<br>
       (Januar 25)
 <br><br>
       Chieng' miparoe kaka Mariam Nyako
       Maler ne odhi limo Elizabeth (Mei 31)
 <br><br>
-      LAMO
+      LAMO<br>
       A Nyasaye man gi nyalo, kuom ng'wononi
       nimiyo Elizabeth obedo mamor ka omoso
       Mariam kaka min ruodhe; irang gi ng'wono
@@ -10494,7 +10479,7 @@ nyaka chieng’.
       kodi, e achiel mar Roho Maler, Nyasaye
       achiel kawuono kendo nyaka chieng'.<i>Amina</i>.
 <br><br>
-      Bang' Sawo Maler to ilamo lamoini:
+      Bang' Sawo Maler to ilamo lamoini:<br>
       A Nyasaye mang'won, manomiyo Elizabeth
       kod Mariam mor kane gineno ranyisi mar
       warruok katiyo kuomgi; konywa, mondo
@@ -10507,7 +10492,7 @@ nyaka chieng’.
 <br>
       Chieng' Barnaba maler (June 11)
 <br><br>
-      LAMO
+      LAMO<br>
       A Nyasaye, wuon mich mabeyo duto kod
       chiwo malong'o duto, ne imiyo jaoteni Bar-
       naba mich mabeyo madongo mag Roho
@@ -10520,8 +10505,8 @@ nyaka chieng’.
       achiel, kawuono kendo nyaka chieng'
      <b>Amina</b>.
 <br><br>
-      Chieng' Miparoe nyuol mar Johana
-      Jabatiso. (Jun 24)
+      Chieng' Miparoe nyuol mar Johana<br>
+      Jabatiso. (Jun 24)<br>
       A Nyasaye Manyalo Gik Moko Duto, kuom
       hera maduong' miherowago, ni miyo onyuol
       Johana Ja-batiso e yo mahono, mi ni ore
@@ -10551,10 +10536,10 @@ nyaka chieng’.
       owa kechni kod kueni pile; kuom Yesu
       Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-      Chieng' Petro maler kod Paulo maler
+      Chieng' Petro maler kod Paulo maler<br>
       (Jun 29)
 <br><br>
-      LAMO
+      LAMO<br>
       Nyasaye Manyalo gik Moko Duto, jooteni
       maler, Petro kod Paulo nomiyo nyingi
       duong' engimagi kendo e thogi. Mi mondo
@@ -10566,11 +10551,11 @@ nyaka chieng’.
       asaye achiel kawuono kendo nyaka chieng'.
      <b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Ka chieng' jaote Petro kende to lamoni ema
       itiyogo.
 <br><br>
-      LAMO
+      LAMO<br>
       A Nyasaye Manyalo Gik Moko Duto,in ema
       nimiyo Petro jaoteni maler ohulo ni Yesu e
       Mesia wuod Nyasaye mangima; ger kani-
@@ -10581,7 +10566,7 @@ nyaka chieng’.
       achiel kawuono kendo nyaka chieng'.
      <b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       A Nyasaye Manyalo Gik Moko Duto, ne
       imiyo Wuodi Yesu Kristo ochiwo ni Jaoteni
       Petro Maler mich mabeyo mathoth, kendo
@@ -10594,8 +10579,8 @@ nyaka chieng’.
       Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
 <br>
-      Chieng' Thoma Maler (Julai 3)
-      LAMO
+      Chieng' Thoma Maler (Julai 3)<br>
+      LAMO<br>
       A Nyasaye Manyalo Gik Moko Duto kendo
       mochwere, ne iyie mondo Thoma Maler
       oriw gi kiawa ni Wuodi osechier, mana ni
@@ -10609,14 +10594,14 @@ nyaka chieng’.
       chieng', kaachiel kod in gi Roho Maler.
      <b>Amina</b>.
 <br><br>
-      Bang' lamo mar Sawo Maler
+      Bang' lamo mar Sawo Maler<br>
       Achiel kuom lamo milamo bang' Sawo maler
       mar chieng' joote kod joland injili inyalo
-      konyruoKgo kaka chieng' Paulo maler
+      konyruoKgo kaka chieng' Paulo maler<br>
       (Januar 25)
 <br><br>
-      Chieng' Mariam Nyar Magdala (Julai 22)
-      LAMO
+      Chieng' Mariam Nyar Magdala (Julai 22)<br>
+      LAMO<br>
       Nyasaye Manyalo Gik Moko duto, wuodi
       ne omiyo Mariam nyar Magdala paro
       makare kod ringruok maber, noluonge mon-
@@ -10661,14 +10646,14 @@ nyaka chieng’.
 <br><br>
 <br>
       Chieng' Miparoe Kaka Kit Yesu Ne
-      Olokore E Got (Ogast 6)
+      Olokore E Got (Ogast 6)<br>
       Mani en chieng' maduong' moloyo chieng'
       Jumapil, omiyo ka odiechieng' mar tarik
       auchiel(6) Ogast ochopo chieng' Jumapil to
       nyasini kik sud nyime, nyaka time mana
       chieng' no.
 <br><br>
-      Lamo
+      Lamo<br>
       Wuonwa manie Polo, Wuodi Yesu Kristo
       kite ne olokore e yo miwuoro e nyim joneno
       moyier e wi got maler ka gin kar kendgi,
@@ -10680,7 +10665,7 @@ nyaka chieng’.
       mar Roho Maler, Nyasaye achiel,kawuono,
       kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
-      Bang' Sawo to ilamo lamoni:
+      Bang' Sawo to ilamo lamoni:<br>
       A Nyasaye Maler, waneno duong' ni e
       wang' Yesu Kristo; Mad wan ma wasudo e
       Sawo Maler ni ngimane mondo onere e
@@ -10690,10 +10675,10 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
 <br>
-      Chieng' Mariam Nyako Silili Moguedhi
+      Chieng' Mariam Nyako Silili Moguedhi<br>
       (Ogast 15)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, ne
       ineno bolruok mar jatichni Mariam nyako
       moguedhi omiyo ne iyiere mondo obed min
@@ -10718,10 +10703,10 @@ nyaka chieng’.
       Kristo Ruodhwa.<b>Amina</b>
 <br><br>
 <br>
-      Chieng' Bathlomayo Jaote Maler
+      Chieng' Bathlomayo Jaote Maler<br>
       (Ogast 24)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, kendo
       Mochwere, né iguedho jaoteni Bathlomayo,
       mi imiye teko mar yie Wachni Maler, kendo
@@ -10744,7 +10729,7 @@ nyaka chieng’.
 <br><br>
       Chieng' Musalaba Maler (Septemba 14)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, kuom
       sand malit mar tho Wuodi moguedhi
       nodokonwa ranyisi maber mar ngima kod
@@ -10764,8 +10749,8 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
 <br>
-      Chieng' Mathayo Maler (Septemba 21)
-      Lamo
+      Chieng' Mathayo Maler (Septemba 21)<br>
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, ne
       imiyo Wuodi mipako oluongo Mathayo
       mane en jasol osuru odok Jaote kendo
@@ -10777,16 +10762,16 @@ nyaka chieng’.
       kawuono kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
       Bang' Sawo Maler to ilamo lamo mar
-      chieng' Joote.
+      chieng' Joote.<br>
       Achiel kuom lamo milamo bang' Sawo
       maler mar chieng' Joote kod joland injili
       nyalo konyruokgo kaka e chieng' Paulo
       maler (Januar 25)
 <br><br>
-      Chieng' Mikael Kod Malaika Duto
+      Chieng' Mikael Kod Malaika Duto<br>
       (Septemba 29)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Mochwere, isemiyo malaika kod
       ji tije mopogore opogore mondo gitini kaka
       owinjore kodgı. Kuom mano wakwayi mon-
@@ -10810,7 +10795,7 @@ nyaka chieng’.
 <br>
       Chieng' Miparoe Luka Maler (Octoba 18)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, ne
       iluongo Luka jathieth, ma pakne wayudo e
       injili mondo obed jaland wach maber kendo
@@ -10829,10 +10814,10 @@ nyaka chieng’.
       inyalo konyruokgo kaka chieng' Paulo
       maler (Januar 25)
 <br><br>
-      Chieng' Simon Maler Kod Juda Maler
+      Chieng' Simon Maler Kod Juda Maler<br>
       (Oktoba 28)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, Joote,
       gi Jonabí e mise ma isegero Kanisa mari
       kuomgi, kendo Yesu Kristo owuon e kidi
@@ -10849,12 +10834,12 @@ nyaka chieng’.
 <br><br>
       Achiel kuom lamo milamo bang' Sawo
       maler mar chieng' joote kod joland injili 
-      inyalo Konyruokgo kaka chieng' Paulo maler
+      inyalo Konyruokgo kaka chieng' Paulo maler<br>
       (Januar 25)
 <br><br>
       Chieng' Jo-nyasaye Duto(Novemba 1)
 <br><br>
-      Lamo
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, isem-
       yo jogi moyier obedo e kanyakla achiel,
       kimiyo gibedo fuonni mag ringre Wuodi
@@ -10879,8 +10864,8 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
 <br>
-      Chieng' Andrea Maler (Novemba 30)
-      Lamo
+      Chieng' Andrea Maler (Novemba 30)<br>
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko Duto, nimiyo
       Andrea Jaoteni mich mar ng'wono, noikore
       winjo luong mar Wuodi Yesu Kristo mondo
@@ -10897,7 +10882,7 @@ nyaka chieng’.
       chieng' Joote
       Achiel kuom lamo milamo bang sawo maler
       mar chieng' joote kod joland injili inyalo
-      konyruokgo kaka chieng' Paulo maler
+      konyruokgo kaka chieng' Paulo maler<br>
       (Januar 25)
 <br><br>
 <br>
@@ -10905,7 +10890,7 @@ nyaka chieng’.
       Ja-Dikon mokwong negi nikech yie mare
       kuom Kristo
 <br><br>
-      Lamo
+      Lamo<br>
       A Wuonwa Mang'won, in ema nimiyo Stefano
       mane okwong negi nikech Kristo ng'wono
       mar lamo ni joma ne okawo kite mondo
@@ -10922,7 +10907,7 @@ nyaka chieng’.
       kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
 <br>
-      <br>KATA
+      <br>KATA<br>
       A Ruoth, pile kisandowa nikech walando
       Wachni madiera, to konywa mondo
       wachom wang'wa e polo, kendo wane
@@ -10940,7 +10925,7 @@ nyaka chieng’.
       Bang' Sawo Maler
       Achiel kuom lamo milamo bang' Sawo maler
       mar chieng' joote kod joland injili inyalo
-      konyruokgo kaka chieng' Paulo maler
+      konyruokgo kaka chieng' Paulo maler<br>
       (Januar 25)
 <br><br>
       A Ruodhwa Mang'won, wagoni erokamano
@@ -10951,7 +10936,6 @@ nyaka chieng’.
       Israel manyien mane okwong negi; kuom
       Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-<br>
       Chieng' Johana Maler Ma Jandik In-
       jili (Desemba 27)
 <br><br>
@@ -10978,7 +10962,7 @@ nyaka chieng’.
       Chieng' Miparoe Nyithindo Mane Onegi
       Mapok Otimo Richo ( Desemba 28)
 <br><br>
-      Lamo
+      Lamo<br>
       A Wuonwa manie polo, Herode nosando
       nyithindi, kata obedo ni onge richo mane
       gimo kamano: kuom sand mar Wuodi
@@ -10990,12 +10974,12 @@ nyaka chieng’.
       achiel mar Roho Maler, Nyasaye achiel,
       kawuono kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       A Nyasaye Manyalo Gik Moko Duto,
       nimiyo nyithindo mayom, koda mago ma-
       pod dhoth, opaki maber, kendo nimiyo dho-
       gi okelo ni nyingi duong'. Yie ikonywa
-      mondo waneg richowa duto, kendo <br>KATA
+      mondo waneg richowa duto, kendo <br>KATA<br>
       obedo ni nyaka negwa nikech wayie kuomi,
       to yie ijiwwa kuom ng'wononi, mondo
       wakelni nyingi maler duong'. Wakwayo
@@ -11016,8 +11000,8 @@ nyaka chieng’.
       kawuono kendo nyaka chieng'.<b>Amina</b>.
 <br><br>
 <br>
-      Nyasi Mar Walo Kanisa
-      Lamo
+      Nyasi Mar Walo Kanisa<br>
+      Lamo<br>
       A Nyasaye Manyalo Gik Moko duto, kuom
       miyo nyingi duong' watimo nyasi mar walo
       odni mondo obed kama ilamie; wapaki
@@ -11031,7 +11015,7 @@ nyaka chieng’.
       do nyaka chieng'.<b>Amina</b>
 <br><br>
       Bang' Sawo Maler mar Ruoth to isomo la-
-      moni:
+      moni:<br>
       Wuonwa manie polo, ma kanisani manie
       pinyka en ranyisi mar kue manie polo, ken-
       do kido mar Jerusalem manyien; e kinde  ma
@@ -11080,10 +11064,9 @@ nyaka chieng’.
     "LEMO MAMOKO",
     """
    <!--pre-->
-   LEMO MAMOKO
    LAMO KOD KWAYO MAG KINDE
-   KOD SECHE MOPOGORE OPOGORE
-   1. LAMO MAR HIGA MANYIEN
+   KOD SECHE MOPOGORE OPOGORE<br>
+   1. LAMO MAR HIGA MANYIEN<br>
    A Nyasaye Mochwere, ng'wononi mochwere
    wuok mana ka chieng' ma wuok e okinyi
    mar higa manyien. E higani manyien mi
@@ -11092,7 +11075,7 @@ nyaka chieng’.
    kendo keto chunywa nyaka giko; kuom
    Yesu Kristo nogo Ruodhwa.<b>Amina</b>.
 <br><br>
-   2. LAMO MAR NDALO KEYO
+   2. LAMO MAR NDALO KEYO<br>
    A Nyasaye ma wuon Adiera duto, herani
    modhiero rieko duto ng'eyo osemiyowa
    nyak mar lowo e kindeni mowinjore. Miwae
@@ -11102,7 +11085,7 @@ nyaka chieng’.
    moko ni Jowetewa mamoko bende; kuom
    Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-   3. LAMO MAR YIERO JOTELO
+   3. LAMO MAR YIERO JOTELO<br>
    A Nyasaye Manyalo Gik Moko Duto, in e
    chakruok mar rieko kod bura makare.
    Telnwa mondo wabed jo-adier kendo jo-bura
@@ -11119,7 +11102,7 @@ nyaka chieng’.
    duong'. Kuom Yesu Kristo Ruodhwa.<i>Amina</i>.
 <br><br>
    4. LAMO MONDO WABED GI CHUNY
-   MOKUE
+   MOKUE<br>
    A Ruoth, mi chuny Jotichni oyud kue
    kendo
    owe bedo gi kihondko, kod parruok. Miwa
@@ -11128,7 +11111,7 @@ nyaka chieng’.
    gi tekoni ka wachung' e wi lwanda ma en
    adierani, kuom Yesu Kristo Ruodhwa.<i>Amina</i>.
 <br><br>
-   5. LAMO MAR BEDO GI HORUOK
+   5. LAMO MAR BEDO GI HORUOK<br>
    Gwedhwa A Nyasachwa, mondo kuom teko
    mar chal kod berni kik wabed Joma rikni
    kata jonyawo e tijewa, Kendo miwa ng'wono
@@ -11140,7 +11123,7 @@ nyaka chieng’.
 <br><br>
 <br>
    6. LAMO MAR KWAYO TEKO MOA KUOM
-   NYASAYE
+   NYASAYE<br>
    A Nyasach Duong' gi Teko, isirowa ka wan
    e chandruok kendo ikadho kodwa e tem,
    miwa ng'wono mondo wabed gi geno kuo-
@@ -11151,7 +11134,7 @@ nyaka chieng’.
    Yesu Kristo Ruodhwa.<b>Amina</b>
 <br><br>
    7. LAMO MONDO WABED GI KINDA E
-   TICH NYASAYE
+   TICH NYASAYE<br>
    A Nyasaye Tekoni ok gimoro, imiyo ji mool
    teko, ji mojony imiyo geno kendo. Wageno
    yudo tekoni manyien, mondo wahu ka ongo,
@@ -11160,7 +11143,7 @@ nyaka chieng’.
    mari Maler, mondo wabed gi kinda ma ok
    wanyosore ka watiyo ni Ruodhwa.<b>Amina</b>.
 <br><br>
-   8. LAMO NI SOMO KOD PUONJRUOK
+   8. LAMO NI SOMO KOD PUONJRUOK<br>
    A Nyasach Somo kod Rieko Duto, wakwayı
    mondo iguedh tich somo e skunde kod
    kwonde tegruok duto, mondo gi puonj
@@ -11171,7 +11154,7 @@ nyaka chieng’.
    Kristo Ruodhwa.<b>Amina</b>
 <br><br>
 <br>
-   9. LAMO NI ALUORA MAR GWENGWA
+   9. LAMO NI ALUORA MAR GWENGWA<br>
    A Nyasaye ma Jachwechwa kendo Jachwech
    Gik Mok Duto, wagoni erokamano kuom ber
    mar chwech duto, wahombi mondo inyiswae
@@ -11184,7 +11167,7 @@ nyaka chieng’.
    mabiro; kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
 <br>
-   10.LAMO NI BURA MAR SINOD
+   10.LAMO NI BURA MAR SINOD<br>
    Ruodhwa Yesu, wang'eyo ni in ewi Kanisa;
    miwa geno kuomi kaka Ruodhwa, mondo
    jotend sinod ni otel mana gi rieko moa kuo-
@@ -11196,7 +11179,7 @@ nyaka chieng’.
    kendo kuom miyo nyingi duong'.<b>Amina</b>
 <br><br>
    11. LAMO MIKWAYOGONI JI MAONGE
-   KAR DAK
+   KAR DAK<br>
    A Ruoth , kech ji duto modhier kendo onge
    gi kar dak, kata modak e mier ma onywan-
    dore, migi teko kod geno, bende mi chunygi
@@ -11207,7 +11190,7 @@ nyaka chieng’.
    mane onge kama doketie wiye.<b>Amina</b>
 <br><br>
    12. LAMO MIKWAYOGO NYASAYE MONDO
-   OCHANG JOTUO
+   OCHANG JOTUO<br>
    A Nyasaye ma Jahera kendo maritowa, jogo
    matuo kendo dendgi lit, jomidekre duto,
    jogo man-gi tuoche ma ok nyal thiedhi, jogo
@@ -11219,7 +11202,7 @@ nyaka chieng’.
    locho kodi nikech wageno kuom jachang ma-
    duong' moloyo, Yesu Kristo Ruodhwa.<i>Amina</i>.
 <br><br>
-   13. LAMO MIKWAYOGO NIJI MAKECH KAYO
+   13. LAMO MIKWAYOGO NIJI MAKECH KAYO<br>
    A Ruoth wakelo iri jogo duto makech kayo
    e piny ngima. Mad hera mar Kristo mul
    chuny ji duto man-gi Chiemo, mondo gipogie
@@ -11234,7 +11217,7 @@ nyaka chieng’.
    kod mwandu mamoko mondo okony joma
    ochando. Yie kwayowa, A Ruoth.<b>Amina</b>.
 <br><br>
-   14. LAMO MIKWAYOGO NI JI MAONGE GI TICH
+   14. LAMO MIKWAYOGO NI JI MAONGE GI TICH<br>
    A Ruoth Mang'won, kech jogo maonge gi
    tich, kod joma tiyo tije mitimo kuom kinde
    machwok, kata maonge gi nyalo mar miyo
@@ -11251,7 +11234,7 @@ nyaka chieng’.
    mabende ne japa bao e Nazareth.<b>Amina</b>.
 <br><br>
    15. LAMO MAR GUEDHO CHIWO KOD
-   MICH NI TICH NYASAYE.
+   MICH NI TICH NYASAYE.<br>
    A Ruoth, wakeloni chiwo mawa gi chuny
    mamor kendo mail, kanyakla gi chiwowagi
    mi wachiwni parowa kod chuny mathuolo
@@ -11267,7 +11250,7 @@ nyaka chieng’.
    oti tichni, kuom Yesu Kristo Ruodhwa.
   <b>Amina</b>.
 <br><br>
-   16. LAMO MIKWAYOGO NYASAYE MONDO ORITWA
+   16. LAMO MIKWAYOGO NYASAYE MONDO ORITWA<br>
    A Ruoth Nyasachwa, mano kaka nyingi nigi
    duong' e piny duto. Ne ichueyowa kuom
    buru mar lowo, nikudho much ngima kuomwa,
@@ -11279,7 +11262,7 @@ nyaka chieng’.
    kodi kod Roho Maler, Nyasaye achiel ndalo
    duto nyaka chieng'.<b>Amina</b>.
 <br><br>
-   17. LAMO MAR ST' AGUSTINO
+   17. LAMO MAR ST' AGUSTINO<br>
    A Nyasaye Manyalo Gik Moko Duto, Ka
    waringo waweyi to wapodho, ka waduogo
    iri to wachung' motegno. Ka wachung' kuo-
@@ -11289,7 +11272,7 @@ nyaka chieng’.
    do ka wakuyo to imiwa kueni; kuom Yesu
    Kristo Ruodhwa.<b>Amina</b>
 <br><br>
-   18. LAMO MA WAKWAYOGO NYASAYE MONDO OTELNWA
+   18. LAMO MA WAKWAYOGO NYASAYE MONDO OTELNWA<br>
    A Ruoth, telnwa e gık moko duto ma wa-
    timo kuom ng'wononi gi herani, bende yie
    imiwa kony mari, e masichewa duto yie irt-
@@ -11297,13 +11280,13 @@ nyaka chieng’.
    wa kueni modhiero rieko duto ng'eyo
    Kuom Yesu Kristo Ruodhwa.<b>Amina</b>
 <br><br>
-   19.LAMO MIKWAYOGO NI PINY AFRIKA
+   19.LAMO MIKWAYOGO NI PINY AFRIKA<br>
    A Nyasaye, guedh piny Afrika, Irit joge, irt
    Jotende kendo imiye kue, Nikech wakwayi
    e nying Yesu Kristo Ruodhwa.<b>Amina</b>
 <br><br>
    20. LAMO MIKWAYOGO NI ACHIEL MAR
-   JO-KRISTO (Januari 8-25)
+   JO-KRISTO (Januari 8-25)<br>
    A Ruoth Nyasaye. Mi Kanisani obed many-
    ien ka ichako koda; Ires pinywa kendo
    chang adhondewa; bende imi wabedi e
@@ -11312,7 +11295,7 @@ nyaka chieng’.
   <b>Amina</b>
 <br><br>
    21. LAMO MIKWAYOGO NYASAYE MONDO
-   OOR KOTH.
+   OOR KOTH.<br>
    A Nyasaye Manyalo Gik Moko Duto, In
    ema ichiwo ngima kod teko. In ema ichueyo
    polo kendo ikelo koth. Jarit ji duto, kod cham,
@@ -11326,7 +11309,7 @@ nyaka chieng’.
 <br><br>
 <br>
    22. LAMO MIKWAYOGO MONDO WACH
-   NYASAYE OLANDRE E PINY
+   NYASAYE OLANDRE E PINY<br>
    A Nyasaye Wuonwa, miwae gombo wachni
    maber kod chir mar lando ni ji mamoko
    wach ng'wononi. Wakwayı mondo Roho
@@ -11336,7 +11319,7 @@ nyaka chieng’.
 <br><br>
 <br>
    23. LAMO MIKWAYOGO NI JOMA ODAK E
-   MIER MADONGO (TAON)
+   MIER MADONGO (TAON)<br>
    A Nyasaye ma Jachwech. Wuonwa manie
    polo, Wuodi ne odoko japa bao e dala Naza-
    reth; Wakwayi mondo ikony jogo duto mati-
@@ -11356,7 +11339,7 @@ nyaka chieng’.
 <br><br>
 <br>
    24. LAMO MAR GUETH E KINDE MIYIKO
-   NG'AT MOTHO
+   NG'AT MOTHO<br>
    A Ruoth, mi joma ngima ng'wononi, to
    Jogo motho to mondo oyue kodi. Kanisa
    kod jogo marito piny kendo ni ji duto migi
@@ -11368,7 +11351,7 @@ nyaka chieng’.
   <b>Amina</b>.
 <br><br>
    25. LAM0 MIKWAYOGO NI BISHOP
-   MADUONG
+   MADUONG<br>
    A Ruoth Nyasaye, mi bishop marwa madu-
    ong' ng'wono mari moromo e tichne matek
    mar telo ni kanısa ei Kenya, kendo e tije
@@ -11383,7 +11366,7 @@ nyaka chieng’.
    pwoch.<b>Amina</b>
 <br><br>
    26. LAMO MIKWAYOGO GUETH MAR NGI-
-   MA MOCHWERE
+   MA MOCHWERE<br>
    A Nyasach Ibrahim, Nyasach Isaka, Nyasach
    Jakobo, kendo Nyasach kwerewa; Guedh
    Jotichni-gi; kendo ipidh kodhi mar ngima
@@ -11397,8 +11380,8 @@ nyaka chieng’.
    Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
    27. LAMO MAR KWAYO GUETH MAR BEDO
-   GI HERA KOD GENRUOK E KIND JI ARI-
-   YO (Inyalo konyori gi achiel kuom Lamogi)
+   GI HERA KOD GENRUOK E KIND JI ARIYO<br>
+    (Inyalo konyori gi achiel kuom Lamogi)<br>
    A Nyasaye Manyalo Gik Moko Duto, mane
    oriwo dichwo gi chiege kaachiel nopuon-
    jowa nyaka a chakruok, ni jogo moseriwo
@@ -11416,7 +11399,7 @@ nyaka chieng’.
    gikeni mag Piny Ruodhi mochwere, Kuom
    Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
-   <br>KATA
+   <br>KATA<br>
    A Nyasaye, Isewalo singruok mar kend,
    mondo onyiswa winjruok manie kind Kristo
    kod kanisa. Or guethni ni Jotichnigi, mondo
@@ -11429,7 +11412,7 @@ nyaka chieng’.
    kendo gi Roho Maler, Nyasaye achiel,
    kawuono kendo nyaka chieng'.<b>Amina</b>
 <br><br>
-   <br>KATA
+   <br>KATA<br>
    A Nyasaye Manyalo Gik Moko Duto, in
    ema ne ichweyo Adam gi Hawa, ne
    iguedhogi ka iriwogi e kend Maler, oolnu
@@ -11438,13 +11421,13 @@ nyaka chieng’.
    kod chunyu bende, ka udak kaachiel e hera
    maler nyaka giko ngimau.<b>Amina</b>
 <br><br>
-   <br>KATA
+   <br>KATA<br>
    Nyasaye Wuoro, omiw ng'wonone. Ny-
    asaye Roho Maler omiw teko kod morne.
    Ruoth mondo oguedhu kendo oritu komiyou
    ngima ma nyaka chieng'.<b>Amina</b>
 <br><br>
-   28. LAMO MA NG'ATO WACHO KOCHIEWO
+   28. LAMO MA NG'ATO WACHO KOCHIEWO<br>
    Agoyoni erokamano, A Nyasaye, kuom rita
    ei otieno kendo kuom chopa e odiechieng'
    manyienni. Akwayi mondo ichak koda
@@ -11455,18 +11438,18 @@ nyaka chieng’.
    mondo ndalo duto amiyi duong'; Ruodhwa
    Kendo Jawarna Yesu Kristo.<b>Amina</b>.
 <br><br>
-   29. LAMO MAR CHIWRUOK NI NYASAYE
+   29. LAMO MAR CHIWRUOK NI NYASAYE<br>
    A Ruoth Nyasaye, achiwoni ngimana
    kawuono. Kikonya gi ng'wononi, to anatem
    rito chikeni, kendo analuwgi gadiera. E yor
    Yesu Kristo ma Ruodha,<b>Amina</b>.
 <br><br>
-   30. LAMO MAR OTIENO
+   30. LAMO MAR OTIENO<br>
    Odiechieng' oserumo kendo abiro iri A
    Nyasacha, kapok adhi e yueyona motienoni.
    Isebedo koda e kinde duto e ber kata e rach,
    kuom mano agoyoni erokamano. Alokora
-   kuom richona duto matimo ka ang'eyo <br>KATA
+   kuom richona duto matimo ka ang'eyo <br>KATA<br>
    ka akiya, e parona, e wechena, koda e timna
    bende; kuom ng'wononi yie iwena Ruoth
    kaka an bende aweyo ni joma otimona marach.
@@ -11477,7 +11460,7 @@ nyaka chieng’.
 <br><br>
 <br>
    31. LAMO MIKWAYOGO MONDO ORIT LE
-   KOD JAMNI
+   KOD JAMNI<br>
    A Nyasaye, in emane ichueyo piny kod chuech
    duto modak e ie, konywa, wakwayi, mondo
    warit chuechni mangıma duto mise miyowa
@@ -11489,7 +11472,7 @@ nyaka chieng’.
    Yesu Kristo Ruodhwa.<b>Amina</b>
 <br><br>
    32. LAMO MIKWAYOGO NI JOMA NIGI
-   TUO AYAKI (HIV/AIDS)
+   TUO AYAKI (HIV/AIDS)<br>
    A Ruoth, walami mondo ikony jogo man
    gituo mar Ayaki.Iting' chunygi giwe parore
    ka luoro mar tho omakogi. Waparo chuo,
@@ -11514,7 +11497,7 @@ nyaka chieng’.
    Kristo miwa chir mondo wakony jowadwa e
    dwarogi duto.<b>Amina</b>
 <br><br>
-   33. JOGO MOHEWORE
+   33. JOGO MOHEWORE<br>
    A Routh, kaka Wuodi, noneno masira kod
    kuyo. Sira resa ndalo duto e ngima mar
    chandruok nyaka tipo bed mabor, odhiambo
@@ -11523,7 +11506,7 @@ nyaka chieng’.
    maler, kendo kue e giko; Kuom Yesu Kristo
    Ruodhwa.<b>Amina</b>.
 <br><br>
-   34. LAMO MAR RITO BUNGE KOD LE
+   34. LAMO MAR RITO BUNGE KOD LE<br>
    A Ruoth, ne ichueyo piny ka chuechni duto
    omakore kendo tiyo kaachiel, ka watiyo gi
    yedhe mag kwiri e chamb-wa to wamiyo
@@ -11540,7 +11523,7 @@ nyaka chieng’.
    yalo dak maber kaachiel gi chuechni kendo
    e kindwa wawegi; nikech Kristo.<b>Amina</b>.
 <br><br>
-   35. LAMO MIKWAYO NI MON MAYACH
+   35. LAMO MIKWAYO NI MON MAYACH<br>
    A Ruoth wagoyoni erokamano kuom
    miyowa bedo jochuech kaachiel kodi, mano
    miyo wakelo ngima manyien e pinyni,
@@ -11567,20 +11550,20 @@ nyaka chieng’.
       Wechegi imedo e ndalo moyiedhi, eka bang' e
       iwacho, Emomiyo, Wan
 <br><br>
-      1. BIRO MAR KRISTO
+      1. BIRO MAR KRISTO<br>
       Koro wagoyoni erokamano kendo wapaki
       nikech ne obiro kaka dhano kane waru-
       okwa ochopo, kendo obiro duogo gi teko
       kod loch mondo ong'ad bura ni piny kendo
       ochop tich duto.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Koro wagoyoni erokamano nikech ne iloso
       yo ni Wuodi gi dwond Janabi Johana ja Batiso
       mane olando ni Yesu e Nyarombo mar
       Nyasaye magolo richo mag piny.
 <br><br>
-      2. NYUOL RUODHWA
+      2. NYUOL RUODHWA<br>
       Koro sani wagoyoni erokamano nikech
       nichiwo Wuodi ma miderma, mondo
       onywolnwago e kinde ma kama. Kuom
@@ -11590,7 +11573,7 @@ nyaka chieng’.
       kaka wan bende wabed maongegi richo, ni-
       kech osepwodhowa maler.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Koro wagoyoni erokamano nikech wachni
       ma ne odoko dhano omiyo ler manyien
       oserieny e piny, kendo oganda mane odak e
@@ -11598,7 +11581,7 @@ nyaka chieng’.
       oserieny kuom joma ne obet e piny motimo
       tipo mar tho.
 <br><br>
-      3. CHIER RUODHWA
+      3. CHIER RUODHWA<br>
       Koro sani wapaki nikech chier maduong'
       mar Wuodi Yesu Kristo Ruodhwa. En e
       Nyarombo maradier mar Pasaka, mane
@@ -11607,7 +11590,7 @@ nyaka chieng’.
       kuom chierne oseduogonwa ngima mo-
       chwere.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Koro wagoyoni erokamano nikech ne
       ichiero Wuodi gi duong' miwuoro a kuom
       joma otho. Isemiyowa geno mar adier kuo-
@@ -11615,20 +11598,20 @@ nyaka chieng’.
       nono, ka wase weyo ringrewa matowni to
       wanadag kode nyakachieng'.
 <br><br>
-      4. DHI RUODHWA E POLO
+      4. DHI RUODHWA E POLO<br>
       Koro wagoyoni erokamano nikech iseting'o
       Wuodi malo kendo isemiye nying' moloyo
       nying' duto, mondo e nying Yesu gik moko
       duto manie polo gi manie piny mondo ogo
       chonggi piny omi Yesu duong'.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       Koro wagoyoni erokamano nikech, bang'
       chierne, Wuodi Mihero noidho odhi e polo,
       kama koro olosonwae kar bet kama enor-
       wakwae e duong'ne mochwere.
 <br><br>
-      5. BIRO MAR ROHO MALER (PENTEKOST)
+      5. BIRO MAR ROHO MALER (PENTEKOST)<br>
       Koro wagoyoni erokamano, nikech biro mar
       Roho mari Maler kuom Joote, ne omiyogi
       teko mar wuoyo gi dhok mayoreyore; mi
@@ -11636,7 +11619,7 @@ nyaka chieng’.
       ogendini duto. Kuom wach maberno omiyo
       waseng'eyi e yo mar adiera.
 <br><br>
-      <br>KATA
+      <br>KATA<br>
       A Nyasaye koro wagoyoni erokamano ni-
       kech Roho mari Maler ne omiyo ondik
       wachni Maber manyisowa adiera lilo, omi-
@@ -11644,7 +11627,7 @@ nyaka chieng’.
       ogendini duto kendo tiyoni kaka jodolo
       moyier.
 <br><br>
-      6. CHIENG' DIDEK MALER
+      6. CHIENG' DIDEK MALER<br>
       Koro wagoyoni erokamano nikech
       iseolonwa duong' ni maler, ka duong' mar
       Wuodi gi mar Roho Maler. Didek monwore e
@@ -11652,7 +11635,7 @@ nyaka chieng’.
       chutho, Nyasaye Achiel, migeno kendo mil-
       amo nyaka chieng'.
 <br><br>
-      7. CHIENG' JO-NYASAYE DUTO
+      7. CHIENG' JO-NYASAYE DUTO<br>
       Koro wagoyoni erokamano nikech geno
       miseluongowae kuom Wuodi, ni ka waluwo
       yie mar jogi duto, to mondo waring gi chir
@@ -11660,13 +11643,13 @@ nyaka chieng’.
       mo wang'wa kuom Yesu, ma en e chakruok
       kendo jachop yiewa.
 <br><br>
-      8. WALO KANISA
+      8. WALO KANISA<br>
       Koro wagoyoni erokamano nikech od lem-
       oni, mowal kuom miyi duong, kama jogi,
       ma gin hekalu maradier mar Roho Maler
       chokoree kaachiel kalami.
 <br><br>
-      9. RWAKO GI WALO JOTICH NYASAYE
+      9. RWAKO GI WALO JOTICH NYASAYE<br>
       Koro wagoyoni erokamano nikech ei ogan-
       da jodolo moyier mag kanisani, iwalo pate
       kod bishope mondo okaw kendo orit rombi,
@@ -11684,8 +11667,8 @@ nyaka chieng’.
       <!--pre-->
       GOYO EROKAMANO NI NYASAYE
       Bang' gimoro motimore ni Jakristo ma
-      obwogo Ngimane
-      WECHE MONEGO IPAR
+      obwogo Ngimane<br>
+      WECHE MONEGO IPAR<br>
       *Miyo Nyasaye duong' kuom konyi e
       gima obwogo ngimani
 <br><br>
@@ -11710,7 +11693,7 @@ nyaka chieng’.
       Nyasaye inyalo koko e kind somo mogol e
       muma misomo ka ji lawore.
 <br><br>
-      WECHE MOGOL E MUMA
+      WECHE MOGOL E MUMA<br>
       1. Pile abiro goyo ni Ruoth Nyasaye erokamano,
       Kendo ok nawe pake ndalo duto.
 <br><br>
@@ -11734,10 +11717,10 @@ nyaka chieng’.
       To Ruoth Nyasaye rese kuom mago duto
 <br><br>
       Kendo orite maber chutho
-      Ma kata mana chok dende achiel ok tur?
+      Ma kata mana chok dende achiel ok tur?<br>
       (Zaburi 34:1-20)
 <br><br>
-      2. <br>KATA
+      2. <br>KATA<br>
       Rita A Ruoth Nyasaye kuom teko mar ji
       matimbegi mono
       Ee konya kuom joma hundu madwaro tieka
@@ -11749,7 +11732,7 @@ nyaka chieng’.
       Chutho kik iwe timbegi mamono dhi
       nyime maber. (Zaburi 140;4,7,8)
 <br><br>
-      3. <br>KATA
+      3. <br>KATA<br>
       We ji duto maringo iri obed mamor
       Kendo imi giwer pile gi ilo
 <br><br>
@@ -11759,7 +11742,7 @@ nyaka chieng’.
       Nimar in Ruoth Nyasaye, iguedho ji ma oluori
       Kendo ng'wononi oritogi mana ka okumba
 <br><br>
-      4. <br>KATA
+      4. <br>KATA<br>
       Ahero Ruoth Nyasaye nikech owinjo kwayona
       Adier ochiko ite ni lemona
 <br><br>
@@ -11788,7 +11771,7 @@ nyaka chieng’.
       Ang'o madachiw ni Ruoth Nyasaye kuom ber
       duto mosetimona
       Abiro kelone misango miolo piny mondo
-      agonego erokamano kuom resa
+      agonego erokamano kuom resa<br>
       (Zaburi 116: 1-9, 12-13)
 <br><br>
       Duong' obed ni Wuoro, Wuowi kod Roho Maler
@@ -11797,7 +11780,7 @@ nyaka chieng’.
      <b>Amina</b>.
 <br><br>
 <br>
-      5. LEMO MOKO
+      5. LEMO MOKO<br>
       Padri luongo ng'ato mondo olem kuom chan-
       druok mantie e sano kata mosekadho moseke-
       ro luoro gi kibaji ni Jo-Kristo, kendo okwa
@@ -11826,7 +11809,7 @@ nyaka chieng’.
       to bang'e owacho niya) Wagoyoni erokamano
       ni e chandruok go duto waseneno warruokni
       kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
-      <br>KATA
+      <br>KATA<br>
 <br><br>
       6. Nyasaye Manyalo Gik Moko Duto, in e kar
       konyruokwa kendo ohingawa, jakony man
@@ -11843,7 +11826,7 @@ nyaka chieng’.
       ratego. Kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 <br><br>
       7. Padri keto lwete kuom ng'ato (gi) ma obiro
-      goyo erokamano koguedhogi kama:
+      goyo erokamano koguedhogi kama:<br>
       Ruoth mondo oguedhu kendo oritu
       Ruoth mondo ogeng'u kuom gik madi hinyu.
       Ruoth mondo orit ngimau
@@ -11865,12 +11848,11 @@ nyaka chieng’.
     "GOYO EROKAMANO BANG' KEYO",
     """
       <!--pre-->
-      GOYO EROKAMANO BANG' KEYO
-      Mudira ma ikeloe keyo duto
-      WECHE MONEGO IPAR
+      Mudira ma ikeloe keyo duto<br>
+      WECHE MONEGO IPAR<br>
       *Lamoni itimo mana e kinde mar keyo
 <br><br>
-      *Jo- Kristo ikwayo mondo okel keyo
+      *Jo-Kristo ikwayo mondo okel keyo
       mogol e puothe kata e lek machue kendo ler.
       Pesa ma iyudo bende ikwano kaka keyo.
 <br><br>
@@ -11880,7 +11862,7 @@ nyaka chieng’.
 <br><br>
       *Lamo mar goyo erokamano itimo e kinde
       mar lamo mokinyı bang' mos kod rwako
-      Jo- Kristo.
+      Jo-Kristo.
 <br><br>
       <h4>CHENRO MAR LEMO</h4>
       1. wero wer mowinjore gi chieng'no ka ji
@@ -11903,17 +11885,17 @@ nyaka chieng’.
       maler mondo oti tichne, wakwaye mondo
       Oguedhwa pile ka watimo tijewa duto e yo
       mowinjore.<br>
-      <i>Padri</i>: Ruoth keyo mondo obed kodu pile.
+      <i>Padri</i>: Ruoth keyo mondo obed kodu pile.<br>
       Ji:In bende obed kodi
 <br><br>
       <i>Padri</i>: Ng'wononi mosiko ber manadi A Nyasaye
       Tipo bwombeni ema ji yudo e konyruok
 <br><br>
       <i>Padri</i>: Gichamo chiemb odi mogundho, mi
-      giyieng'
+      giyieng'<br>
       Ji: Kendo imiyo gimodho e aora mar berni.
 <br><br>
-      <i>Padri</i>: In ema ngima wuok kuomi
+      <i>Padri</i>: In ema ngima wuok kuomi<br>
       Ji:Kendo ler mari ema omiyo wane-
       no ler (Zaburi 36:7-9)
 <br><br>
@@ -11929,31 +11911,31 @@ nyaka chieng’.
 <br><br>
       6. WECHE MA JI LAWO (Litania)<br>
       <i>Padri</i>: Duong' kod pak obed ni Ruoth man
-      malo chutho;
+      malo chutho;<br>
       Ji: Mane ochueyo polo kod piny gi
       gik moko duto man e igi.
 <br><br>
       <i>Padri</i>: Nochueyo dichwo gi dhako e kido
-      machalo kode.
+      machalo kode.<br>
       Ji: Kendo noketogi e pwoth Eden
 <br><br>
       <i>Padri</i>: Kaka Adam gi Hawa wan bende wan
-      Jorit;
+      Jorit;<br>
       Ji: Wan jorit nyaka gigo duto
       mawuok e lowo
 <br><br>
       <i>Padri</i>: Ng'at makayo cham kosechiek en
-      Ng'at mariek
+      Ng'at mariek<br>
       Ji: To ng'at ma nindo aninda e ndalo
       keyo kelo mana wichkuot Zaburi 10.5.
 <br><br>
-      <i>Padri</i>: Ka ruedhi onge e kul to kul ni nono
+      <i>Padri</i>: Ka ruedhi onge e kul to kul ni nono<br>
       Ji:To tekre ruath miyo wayudo keyo
       mang'eny
 <br><br>
       <i>Padri</i>: Ja samuoyo ma ok pur puothe e
-      kinde nmowinjore.
-      Ji: Ok nyal yudo cham e ndalo keyo.
+      kinde nmowinjore.<br>
+      Ji: Ok nyal yudo cham e ndalo keyo.<br>
       (Ngeche 20:4)
 <br><br>
       <i>Padri</i>: Kaka koro wamor kendo wagoyo
@@ -11961,58 +11943,58 @@ nyaka chieng’.
       wayudo, waparuru kuma ng'wono
       mar Nyasaye osegolowae.<br>
       <i>Padri</i>: An ema ne akelo kech e miechu
-      uduto
+      uduto<br>
       Ji:Mi ubedo maonge gi chiemo
 <br><br>
-      <i>Padri</i>: Ne amiyo koth ochue e mier moko
+      <i>Padri</i>: Ne amiyo koth ochue e mier moko<br>
       Ji: To oweyo moko.
 <br><br>
-      <i>Padri</i>: Ne ochue e puothe moko
+      <i>Padri</i>: Ne ochue e puothe moko<br>
       Ji: To puothe mane ok ochuee
       nowang'
 <br><br>
       <i>Padri</i>: Ji ne a e mier moko, kendo wuotho
-      kool kadhi e dala moro dwaro pi.
+      kool kadhi e dala moro dwaro pi.<br>
       Ji: To ne ok giyudo moromogi. (Amos
       4:6-8)
 <br><br>
       <i>Padri</i>: Emomiyo ne waywakni Ruoth Ny-
-      asachwa
+      asachwa<br>
       Ji: Duoknwa mwanduwa A Ruoth
       mana ka aora mamol kama otwo.
 <br><br>
-      <i>Padri</i>: Joma chwoyo ka ywak
+      <i>Padri</i>: Joma chwoyo ka ywak<br>
       Ji: Biro kayo cham gi ilo
 <br><br>
-      <i>Padri</i>: Joma ywak koting'o kodhi
+      <i>Padri</i>: Joma ywak koting'o kodhi<br>
       Ji: Biro dok e miechgi gi cham, ka
       mor. (Zaburi 126:5-6)
 <br><br>
       <i>Padri</i>: Ruoth Nyasaye biro miyo wadhi
-      nyime maber,
+      nyime maber,<br>
       Ji: Kendo pinywa biro nyago cham
       mogundho (Zaburi 85:12)
 <br><br>
       <i>Padri</i>: Ang'o ma iparo ni in-go ma ok
-      Nyasaye ema ne omiyi?
+      Nyasaye ema ne omiyi?<br>
       Ji: Koro ere gima omiyo isungori ma-
       na ka gima gik ma in-go ok omiyi
       amiya. (1 Jo-Korintho 4:7)
 <br><br>
-      <i>Padri</i>: Chiwo kelo gueth moloyo kawo;
-      (Tich Joote 20:35)
+      <i>Padri</i>: Chiwo kelo gueth moloyo kawo;<br>
+      (Tich Joote 20:35)<br>
       Ji: Jachiwo ma mor ema Nyasaye
       ohero. (2 Korintho 9:7)
 <br><br>
       <i>Padri</i>: Paruru Ruoth Nyasaye ma
-      Nyasachu,
+      Nyasachu,<br>
       Ji:Nimar en ema omiyou teko mar
-      yudo mwandu (Rapar mar Chik 8:18)
-      7. Wer
-      8. Milome
-      9. Wer
-      10. Puonjo wach Nyasaye
-      11. Chiwo (Sadaka)
+      yudo mwandu (Rapar mar Chik 8:18)<br>
+      7. Wer<br>
+      8. Milome<br>
+      9. Wer<br>
+      10. Puonjo wach Nyasaye<br>
+      11. Chiwo (Sadaka)<br>
       Padri nyalo somo somo mogol e muma
       majiwo ji Kuom wach chiwo.
       Bende padri nyalo somo ndikogi:
@@ -12022,7 +12004,7 @@ nyaka chieng’.
       moo oko, nimar pim ma upimoe ema un
       bende nopimue. (Lk 6:38)
 <br><br>
-      KATA/ GI
+      KATA/ GI<br>
       Nyaka imi Ruoth Nyasaye duong' gi
       mwanduni, kichiwone cham mabeyo
       moloyo ma ikayo e puothi.
@@ -12034,7 +12016,7 @@ nyaka chieng’.
       gimor ka gikelo chiwo mag-gi. Ka gise kelo
       chiwo duto to gisiko ka gichung, kendo
       padri lemo<br>
-      <i>Padri</i>: In ema ichiwo gik moko duto A Ruoth.
+      <i>Padri</i>: In ema ichiwo gik moko duto A Ruoth.<br>
       Ji: Kendo wadwokoni mana gik moko
       duto maisemiyowa.
 <br><br>
@@ -12052,7 +12034,7 @@ nyaka chieng’.
       moloyo mondo gichopgo dwaroni duto kaka
       owinjore, mondo nyingi maler omi duong'
       kod luor.<b>Amina</b>.
-      13. Ji bet
+      13. Ji bet<br>
       14. LEMO MAMOKO
 <br><br>
       Padri nyalo konyore gi lamo moko mayudore
@@ -12060,8 +12042,8 @@ nyaka chieng’.
       kendo dwarore. (Gi lemo mag ndalo mopo-
       gore gi kinde ma iwachogie)
 <br><br>
-      15. LAMO MA IKWAYOGO KONY
-      16. GUETH
+      15. LAMO MA IKWAYOGO KONY<br>
+      16. GUETH<br>
       Ma kaka kido mopogore opogore mag gueth
       inyalo konyruokgo.
 <br><br>
@@ -12095,7 +12077,7 @@ nyaka chieng’.
     """
       <!--pre-->
       Lamo mar goyo erokamano itimo mana e
-      kanisa.
+      kanisa.<br>
       *Goyo erokamano bang' nyuol ok nyal
       kawo kar batiso e yo moro amora.
 <br><br>
@@ -12134,16 +12116,16 @@ nyaka chieng’.
       *To ka en nyathi ma ok mari minyuolo, to
       IKawe mondo ipidhe obed marı kuom
       chik sirikal, to ichako lemone e kare 6
-      mar lemoni. (lemoni nyathi ma ipidho e
+<br>      mar lemoni. (lemoni nyathi ma ipidho e
       bwo chik)
 <br><br>
       <h4>CHENRO MAR LEMO</h4>
-      1. Wer
+      1. Wer<br>
       Jonyuol kod osiepegi kelo nyathi ir padri.
       gichung' e nyım mesa mar Ruoth ka ging'iyo
       padri
 <br><br>
-      2. <br><i>Padri</i>: Ruoth obed kodu
+      2. <br><i>Padri</i>: Ruoth obed kodu<br>
       Ji: In bende obed kodi
       Wasebiro ka e nyım Nyasaye mondo wari=
       wre gi migosi kod mikayi.. N.. kuom goyo
@@ -12151,7 +12133,7 @@ nyaka chieng’.
       nyathi, kendo kuom rito mama.. N.. e kin-
       deno mar nywol.
 <br><br>
-      Walam
+      Walam<br>
       Nyasaye Manyalo Gik Moko Duto, wa-
       goyoni erokamano kuom miyowa ngima
       kendo kuom miyowa mor kod ting' mar
@@ -12165,43 +12147,43 @@ nyaka chieng’.
 <br><br>
       2. Padri telo ni ji kowacho kiewo mokwongo
       to ji dwoko mar ariyo.<br>
-      <i>Padri</i>: Nikech Ruoth Nyasaye ber
+      <i>Padri</i>: Nikech Ruoth Nyasaye ber<br>
       Ji: Wabiro pake gi Zaburi.
 <br><br>
       <i>Padri</i>: Ji duto moluoro Ruoth mondo owach
-      niya.
+      niya.<br>
       Ji: Herane mosiko ochwere. (Zaburi
       118: 1-4)
 <br><br>
-      <i>Padri</i>: Ka ok Ruoth Nyasaye ogero ot
+      <i>Padri</i>: Ka ok Ruoth Nyasaye ogero ot<br>
       Ji: To tich jogedo odhi kanono.
 <br><br>
       <i>Padri</i>: Bende onge tiende tiyo matek mon-
       do uyud chiemo, ka uchiewo gokinyi
-      mang'ich kendo udhi nindo molewo.
+      mang'ich kendo udhi nindo molewo.<br>
       Ji: Ruoth Nyasaye ema miyo nindo tero
       ng'ato mohero.
 <br><br>
       <i>Padri</i>: Nyithindo gin mich moa kuom Ru-
-      oth Nyasaye
+      oth Nyasaye<br>
       Ji: Adier, gin gueth miwuoro.
 <br><br>
       <i>Padri</i>: Yawuowi ma ng'ato onyuolo kapod
-      otin
+      otin<br>
       Ji: Chalo gi aserini ma ja lweny
       oting'o e lwete.
 <br><br>
       <i>Padri</i>: Ng'ato monegi gi aserini mang'eny
-      ma kamago en jahawi
+      ma kamago en jahawi<br>
       Ji: Oa noloye ka oromo gi wasike e
       dhoranga jodala. (Zaburi 127)
 <br><br>
       <i>Padri</i>: Duong' obed ni Wuoro ni Wuowi
-      kod Roho Maler
+      kod Roho Maler<br>
       Ji: Kaka nobet mokwongo, kendo ka-
       ka obet kawuono, kendo kaka biro
       bet nyaka chieng'.<b>Amina</b>.
-      4. WER
+      4. WER<br>
       5. Padri ting'o nyathi e bade kendo owacho
       lemoni kata litania maluwo lamogi.
 <br><br>
@@ -12253,30 +12235,30 @@ nyaka chieng’.
 <br><br>
       7. Bang'e isomo Litania<br>
       <i>Padri</i>: Ruoth wagoyonı erokamano ikech 
-      nyathini
+      nyathini<br>
       Ji: Kuom miyo onywole maber
 <br><br>
-      <i>Padri</i>: Ruoth geng'ne tuoche
+      <i>Padri</i>: Ruoth geng'ne tuoche<br>
       Ji: Ruoth igeng'ne
 <br><br>
-      <i>Padri</i>: Ruoth igeng'ne hinyruok ma apoya
-      (ajali)
+      <i>Padri</i>: Ruoth igeng'ne hinyruok ma apoya<br>
+      (ajali)<br>
       Ji: Ruoth igeng'ne
 <br><br>
-      <i>Padri</i>: Onego puonje kendo orite maber
+      <i>Padri</i>: Onego puonje kendo orite maber<br>
       Ji: Onego obed mamor kochiemo kod
       jonyuolne
 <br><br>
       <i>Padri</i>: Onego odongi ka en gi rieko kod
-      teko mar chuny
+      teko mar chuny<br>
       Ji:Ka Nyasaye kod ji bedo mamor kode
 <br><br>
       <i>Padri</i>: Onego odongi mobed janeno motegno
-      mar Kristo
+      mar Kristo<br>
       Ji: Ei kanisa kendo ni ji duto
 <br><br>
       <i>Padri</i>: Ruoth mondo okonyi e chandruok
-      duto manobi e ngimani
+      duto manobi e ngimani<br>
       Ji: Mondo ibed mamor kuom mwandu
       mar dak higni mang'eny.
 <br><br>
@@ -12304,7 +12286,7 @@ nyaka chieng’.
     "LEMO MAR GOYO EROKAMANO",
     """
       <!--pre-->
-      WECHE MONEGO IPAR
+      WECHE MONEGO IPAR<br>
       *Jo-Kristo onego Jiw kuom wachni mar
       goyo erokamano ei kanisa, ni weche
       mopogore opogore, ka gimikwayogo Ny-
@@ -12340,7 +12322,7 @@ nyaka chieng’.
 <br><br>
       *Ji ma obiro goyo erokamano imiyo thuolo
       mondo giwachie weche manok kuom
-      gima gidwaro timo. Jo- Kristo rwako
+      gima gidwaro timo. Jo-Kristo rwako
       wechegi e yor pamo lwedo kata e yo mo-
       ro machielo mowinjore manyiso ni gi
       rwako weche mowachgo.
@@ -12349,8 +12331,8 @@ nyaka chieng’.
       moket piny ka, kata somo moko
       mowinjore mogole muma.
 <br><br>
-      ZABURI.(147)
-      Pakuru Ruoth Nyasaye!
+      ZABURI.(147)<br>
+      Pakuru Ruoth Nyasaye!<br>
       En gima ber, wero ni Nyasachwa wende
       pak Adier goyone erokamano long'o kendo
       owinjore,
